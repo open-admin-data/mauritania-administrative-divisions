@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MR01284",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "AÃ¯n Savra",
+      "en": "AÃ¯n Savra",
+      "slug": "an-savra"
+    },
+    "code": {
+      "id": "MR01284",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR073",
+      "level": 2,
+      "name": {
+        "local": "Chinguitti",
+        "en": "Chinguitti",
+        "slug": "chinguitti-mr073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR073",
+        "level": 2,
+        "name": {
+          "local": "Chinguitti",
+          "en": "Chinguitti",
+          "slug": "chinguitti-mr073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.612",
+      "lon": "-11.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01283",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinguitti",
+      "en": "Chinguitti",
+      "slug": "chinguitti"
+    },
+    "code": {
+      "id": "MR01283",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR073",
+      "level": 2,
+      "name": {
+        "local": "Chinguitti",
+        "en": "Chinguitti",
+        "slug": "chinguitti-mr073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR073",
+        "level": 2,
+        "name": {
+          "local": "Chinguitti",
+          "en": "Chinguitti",
+          "slug": "chinguitti-mr073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.177",
+      "lon": "-10.245"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

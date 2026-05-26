@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01221",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betengal",
+      "en": "Betengal",
+      "slug": "betengal"
+    },
+    "code": {
+      "id": "MR01221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR045",
+      "level": 2,
+      "name": {
+        "local": "Lexeibe 1",
+        "en": "Lexeibe 1",
+        "slug": "lexeibe-1-mr045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR045",
+        "level": 2,
+        "name": {
+          "local": "Lexeibe 1",
+          "en": "Lexeibe 1",
+          "slug": "lexeibe-1-mr045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.109",
+      "lon": "-12.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01223",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ganki",
+      "en": "Ganki",
+      "slug": "ganki"
+    },
+    "code": {
+      "id": "MR01223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR045",
+      "level": 2,
+      "name": {
+        "local": "Lexeibe 1",
+        "en": "Lexeibe 1",
+        "slug": "lexeibe-1-mr045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR045",
+        "level": 2,
+        "name": {
+          "local": "Lexeibe 1",
+          "en": "Lexeibe 1",
+          "slug": "lexeibe-1-mr045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.306",
+      "lon": "-13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01220",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lexeiba 1",
+      "en": "Lexeiba 1",
+      "slug": "lexeiba-1"
+    },
+    "code": {
+      "id": "MR01220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR045",
+      "level": 2,
+      "name": {
+        "local": "Lexeibe 1",
+        "en": "Lexeibe 1",
+        "slug": "lexeibe-1-mr045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR045",
+        "level": 2,
+        "name": {
+          "local": "Lexeibe 1",
+          "en": "Lexeibe 1",
+          "slug": "lexeibe-1-mr045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.209",
+      "lon": "-13.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01222",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talhaye",
+      "en": "Talhaye",
+      "slug": "talhaye"
+    },
+    "code": {
+      "id": "MR01222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR045",
+      "level": 2,
+      "name": {
+        "local": "Lexeibe 1",
+        "en": "Lexeibe 1",
+        "slug": "lexeibe-1-mr045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR045",
+        "level": 2,
+        "name": {
+          "local": "Lexeibe 1",
+          "en": "Lexeibe 1",
+          "slug": "lexeibe-1-mr045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.062",
+      "lon": "-13.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

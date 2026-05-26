@@ -1,0 +1,47 @@
+{
+  "id": "MR151",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "El Mina",
+    "en": "El Mina",
+    "slug": "el-mina-mr151"
+  },
+  "code": {
+    "id": "MR151",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR15",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Sud",
+      "en": "Nouakchott Sud",
+      "slug": "nouakchott-sud-mr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR15",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Sud",
+        "en": "Nouakchott Sud",
+        "slug": "nouakchott-sud-mr15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.946",
+    "lon": "-16.005"
+  },
+  "metadata": {},
+  "source": {}
+}

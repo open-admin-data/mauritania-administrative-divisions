@@ -1,0 +1,47 @@
+{
+  "id": "MR035",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Kiffa",
+    "en": "Kiffa",
+    "slug": "kiffa-mr035"
+  },
+  "code": {
+    "id": "MR035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR03",
+    "level": 1,
+    "name": {
+      "local": "Assaba",
+      "en": "Assaba",
+      "slug": "assaba-mr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.69",
+    "lon": "-11.323"
+  },
+  "metadata": {},
+  "source": {}
+}

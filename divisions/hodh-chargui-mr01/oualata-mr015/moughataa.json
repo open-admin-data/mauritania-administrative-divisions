@@ -1,0 +1,47 @@
+{
+  "id": "MR015",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Oualata",
+    "en": "Oualata",
+    "slug": "oualata-mr015"
+  },
+  "code": {
+    "id": "MR015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR01",
+    "level": 1,
+    "name": {
+      "local": "Hodh Chargui",
+      "en": "Hodh Chargui",
+      "slug": "hodh-chargui-mr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.887",
+    "lon": "-6.924"
+  },
+  "metadata": {},
+  "source": {}
+}

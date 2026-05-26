@@ -1,0 +1,47 @@
+{
+  "id": "MR153",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Riad",
+    "en": "Riad",
+    "slug": "riad-mr153"
+  },
+  "code": {
+    "id": "MR153",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR15",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Sud",
+      "en": "Nouakchott Sud",
+      "slug": "nouakchott-sud-mr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR15",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Sud",
+        "en": "Nouakchott Sud",
+        "slug": "nouakchott-sud-mr15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.971",
+    "lon": "-15.908"
+  },
+  "metadata": {},
+  "source": {}
+}

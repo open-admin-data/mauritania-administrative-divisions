@@ -1,0 +1,47 @@
+{
+  "id": "MR064",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Ouad Naga",
+    "en": "Ouad Naga",
+    "slug": "ouad-naga-mr064"
+  },
+  "code": {
+    "id": "MR064",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR06",
+    "level": 1,
+    "name": {
+      "local": "Trarza",
+      "en": "Trarza",
+      "slug": "trarza-mr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.117",
+    "lon": "-15.422"
+  },
+  "metadata": {},
+  "source": {}
+}

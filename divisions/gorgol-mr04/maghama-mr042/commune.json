@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MR01201",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beilouguet Litame",
+      "en": "Beilouguet Litame",
+      "slug": "beilouguet-litame"
+    },
+    "code": {
+      "id": "MR01201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.756",
+      "lon": "-12.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01200",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dolol CivÃ©",
+      "en": "Dolol CivÃ©",
+      "slug": "dolol-civ"
+    },
+    "code": {
+      "id": "MR01200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.584",
+      "lon": "-13.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01199",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doo",
+      "en": "Doo",
+      "slug": "doo"
+    },
+    "code": {
+      "id": "MR01199",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.507",
+      "lon": "-12.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01198",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maghama",
+      "en": "Maghama",
+      "slug": "maghama"
+    },
+    "code": {
+      "id": "MR01198",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.511",
+      "lon": "-12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01204",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "SagnÃ©",
+      "en": "SagnÃ©",
+      "slug": "sagn"
+    },
+    "code": {
+      "id": "MR01204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.212",
+      "lon": "-12.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01203",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toulel",
+      "en": "Toulel",
+      "slug": "toulel"
+    },
+    "code": {
+      "id": "MR01203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.366",
+      "lon": "-12.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01202",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vrea Litame",
+      "en": "Vrea Litame",
+      "slug": "vrea-litame"
+    },
+    "code": {
+      "id": "MR01202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.5",
+      "lon": "-12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01205",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wali Djantang",
+      "en": "Wali Djantang",
+      "slug": "wali-djantang"
+    },
+    "code": {
+      "id": "MR01205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR042",
+      "level": 2,
+      "name": {
+        "local": "Maghama",
+        "en": "Maghama",
+        "slug": "maghama-mr042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR042",
+        "level": 2,
+        "name": {
+          "local": "Maghama",
+          "en": "Maghama",
+          "slug": "maghama-mr042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.37",
+      "lon": "-12.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

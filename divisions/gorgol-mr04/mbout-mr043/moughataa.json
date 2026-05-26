@@ -1,0 +1,47 @@
+{
+  "id": "MR043",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "M'Bout",
+    "en": "M'Bout",
+    "slug": "mbout-mr043"
+  },
+  "code": {
+    "id": "MR043",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR04",
+    "level": 1,
+    "name": {
+      "local": "Gorgol",
+      "en": "Gorgol",
+      "slug": "gorgol-mr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.014",
+    "lon": "-12.377"
+  },
+  "metadata": {},
+  "source": {}
+}

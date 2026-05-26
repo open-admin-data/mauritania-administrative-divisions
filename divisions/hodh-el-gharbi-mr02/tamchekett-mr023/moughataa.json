@@ -1,0 +1,47 @@
+{
+  "id": "MR023",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Tamchekett",
+    "en": "Tamchekett",
+    "slug": "tamchekett-mr023"
+  },
+  "code": {
+    "id": "MR023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR02",
+    "level": 1,
+    "name": {
+      "local": "Hodh El Gharbi",
+      "en": "Hodh El Gharbi",
+      "slug": "hodh-el-gharbi-mr02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.117",
+    "lon": "-10.443"
+  },
+  "metadata": {},
+  "source": {}
+}

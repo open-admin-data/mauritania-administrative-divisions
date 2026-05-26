@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MR018",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Adel Bagrou",
+      "en": "Adel Bagrou",
+      "slug": "adel-bagrou-mr018"
+    },
+    "code": {
+      "id": "MR018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.809",
+      "lon": "-6.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR011",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Amourj",
+      "en": "Amourj",
+      "slug": "amourj-mr011"
+    },
+    "code": {
+      "id": "MR011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.84",
+      "lon": "-7.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR012",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Bassiknou",
+      "en": "Bassiknou",
+      "slug": "bassiknou-mr012"
+    },
+    "code": {
+      "id": "MR012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.171",
+      "lon": "-6.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR013",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Djiguenni",
+      "en": "Djiguenni",
+      "slug": "djiguenni-mr013"
+    },
+    "code": {
+      "id": "MR013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.019",
+      "lon": "-8.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR017",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "N'Beiket Lehwach",
+      "en": "N'Beiket Lehwach",
+      "slug": "nbeiket-lehwach-mr017"
+    },
+    "code": {
+      "id": "MR017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.549",
+      "lon": "-6.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR014",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Néma",
+      "en": "Néma",
+      "slug": "nma-mr014"
+    },
+    "code": {
+      "id": "MR014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.36",
+      "lon": "-7.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR015",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Oualata",
+      "en": "Oualata",
+      "slug": "oualata-mr015"
+    },
+    "code": {
+      "id": "MR015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.887",
+      "lon": "-6.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR016",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Timbédra",
+      "en": "Timbédra",
+      "slug": "timbdra-mr016"
+    },
+    "code": {
+      "id": "MR016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.218",
+      "lon": "-8.216"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

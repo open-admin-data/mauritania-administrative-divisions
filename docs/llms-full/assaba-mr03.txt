@@ -1,0 +1,138 @@
+# Assaba — Mauritania Administrative Divisions
+
+> 5 moughataas, 26 communes
+> Code: MR03
+> Coordinates: 16.713, -11.856
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Barkéol
+
+Code: MR031, Coordinates: 16.642, -12.443
+Communes: 8
+
+#### Barkeiwel
+
+Code: MR01167, Coordinates: 16.634, -12.435
+
+#### Bou Lahrath
+
+Code: MR01174, Coordinates: 17.031, -12.419
+
+#### Daghveg
+
+Code: MR01171, Coordinates: 16.464, -12.376
+
+#### El Ghabra
+
+Code: MR01172, Coordinates: 16.562, -12.624
+
+#### Gueller
+
+Code: MR01168, Coordinates: 16.864, -12.261
+
+#### Laweissi
+
+Code: MR01170, Coordinates: 16.235, -12.138
+
+#### Lebheir
+
+Code: MR01169, Coordinates: 16.521, -12.158
+
+#### R&#39;Dheidhie
+
+Code: MR01173, Coordinates: 16.948, -12.691
+
+### Boumdeid
+
+Code: MR032, Coordinates: 17.744, -11.279
+Communes: 3
+
+#### Boumdeid
+
+Code: MR01175, Coordinates: 17.484, -11.367
+
+#### Hseiy Tin
+
+Code: MR01176, Coordinates: 17.314, -11.488
+
+#### Lavtah
+
+Code: MR01177, Coordinates: 17.853, -11.273
+
+### Guerou
+
+Code: MR033, Coordinates: 16.876, -11.929
+Communes: 4
+
+#### El Ghaira
+
+Code: MR01180, Coordinates: 17.157, -12.18
+
+#### Guerou
+
+Code: MR01178, Coordinates: 16.866, -11.843
+
+#### Kamour
+
+Code: MR01181, Coordinates: 16.995, -11.965
+
+#### Oudeiy Jrid
+
+Code: MR01179, Coordinates: 16.783, -12.022
+
+### Kankoussa
+
+Code: MR034, Coordinates: 15.713, -11.146
+Communes: 5
+
+#### Blajmil
+
+Code: MR01184, Coordinates: 16.04, -11.068
+
+#### Hamed
+
+Code: MR01186, Coordinates: 15.574, -11.217
+
+#### Kankoussa
+
+Code: MR01182, Coordinates: 15.881, -11.532
+
+#### Sani
+
+Code: MR01183, Coordinates: 16.106, -11.46
+
+#### Tenaha
+
+Code: MR01185, Coordinates: 15.47, -10.844
+
+### Kiffa
+
+Code: MR035, Coordinates: 16.69, -11.323
+Communes: 6
+
+#### Aghorat
+
+Code: MR01189, Coordinates: 16.724, -10.95
+
+#### El Melgue
+
+Code: MR01190, Coordinates: 16.701, -11.111
+
+#### Kiffa
+
+Code: MR01187, Coordinates: 16.626, -11.412
+
+#### Kouroudjel
+
+Code: MR01191, Coordinates: 16.423, -11.495
+
+#### Legrane
+
+Code: MR01192, Coordinates: 16.36, -11.797
+
+#### Nouamlein
+
+Code: MR01188, Coordinates: 17.11, -11.469
+

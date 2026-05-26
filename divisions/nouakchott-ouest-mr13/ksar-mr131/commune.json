@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01330",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar",
+      "en": "Ksar",
+      "slug": "ksar"
+    },
+    "code": {
+      "id": "MR01330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR131",
+      "level": 2,
+      "name": {
+        "local": "Ksar",
+        "en": "Ksar",
+        "slug": "ksar-mr131"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR13",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Ouest",
+          "en": "Nouakchott Ouest",
+          "slug": "nouakchott-ouest-mr13"
+        }
+      },
+      {
+        "id": "MR131",
+        "level": 2,
+        "name": {
+          "local": "Ksar",
+          "en": "Ksar",
+          "slug": "ksar-mr131"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.33",
+      "lon": "-15.931"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01180",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghaira",
+      "en": "El Ghaira",
+      "slug": "el-ghaira"
+    },
+    "code": {
+      "id": "MR01180",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR033",
+      "level": 2,
+      "name": {
+        "local": "Guerou",
+        "en": "Guerou",
+        "slug": "guerou-mr033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR033",
+        "level": 2,
+        "name": {
+          "local": "Guerou",
+          "en": "Guerou",
+          "slug": "guerou-mr033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.157",
+      "lon": "-12.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01178",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guerou",
+      "en": "Guerou",
+      "slug": "guerou"
+    },
+    "code": {
+      "id": "MR01178",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR033",
+      "level": 2,
+      "name": {
+        "local": "Guerou",
+        "en": "Guerou",
+        "slug": "guerou-mr033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR033",
+        "level": 2,
+        "name": {
+          "local": "Guerou",
+          "en": "Guerou",
+          "slug": "guerou-mr033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.866",
+      "lon": "-11.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01181",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kamour",
+      "en": "Kamour",
+      "slug": "kamour"
+    },
+    "code": {
+      "id": "MR01181",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR033",
+      "level": 2,
+      "name": {
+        "local": "Guerou",
+        "en": "Guerou",
+        "slug": "guerou-mr033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR033",
+        "level": 2,
+        "name": {
+          "local": "Guerou",
+          "en": "Guerou",
+          "slug": "guerou-mr033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.995",
+      "lon": "-11.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01179",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oudeiy Jrid",
+      "en": "Oudeiy Jrid",
+      "slug": "oudeiy-jrid"
+    },
+    "code": {
+      "id": "MR01179",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR033",
+      "level": 2,
+      "name": {
+        "local": "Guerou",
+        "en": "Guerou",
+        "slug": "guerou-mr033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR033",
+        "level": 2,
+        "name": {
+          "local": "Guerou",
+          "en": "Guerou",
+          "slug": "guerou-mr033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.783",
+      "lon": "-12.022"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

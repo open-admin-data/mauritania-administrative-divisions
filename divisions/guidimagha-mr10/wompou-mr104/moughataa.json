@@ -1,0 +1,47 @@
+{
+  "id": "MR104",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Wompou",
+    "en": "Wompou",
+    "slug": "wompou-mr104"
+  },
+  "code": {
+    "id": "MR104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR10",
+    "level": 1,
+    "name": {
+      "local": "Guidimagha",
+      "en": "Guidimagha",
+      "slug": "guidimagha-mr10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR10",
+      "level": 1,
+      "name": {
+        "local": "Guidimagha",
+        "en": "Guidimagha",
+        "slug": "guidimagha-mr10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.366",
+    "lon": "-12.476"
+  },
+  "metadata": {},
+  "source": {}
+}

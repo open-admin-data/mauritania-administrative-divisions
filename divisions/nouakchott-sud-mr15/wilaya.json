@@ -1,0 +1,30 @@
+{
+  "id": "MR15",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Nouakchott Sud",
+    "en": "Nouakchott Sud",
+    "slug": "nouakchott-sud-mr15"
+  },
+  "code": {
+    "id": "MR15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.943",
+    "lon": "-15.94"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MR031",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Barkéol",
+    "en": "Barkéol",
+    "slug": "barkol-mr031"
+  },
+  "code": {
+    "id": "MR031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR03",
+    "level": 1,
+    "name": {
+      "local": "Assaba",
+      "en": "Assaba",
+      "slug": "assaba-mr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.642",
+    "lon": "-12.443"
+  },
+  "metadata": {},
+  "source": {}
+}

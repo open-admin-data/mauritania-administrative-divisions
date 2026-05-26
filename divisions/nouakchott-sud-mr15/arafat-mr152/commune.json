@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01337",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arafat",
+      "en": "Arafat",
+      "slug": "arafat"
+    },
+    "code": {
+      "id": "MR01337",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR152",
+      "level": 2,
+      "name": {
+        "local": "Arafat",
+        "en": "Arafat",
+        "slug": "arafat-mr152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR15",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Sud",
+          "en": "Nouakchott Sud",
+          "slug": "nouakchott-sud-mr15"
+        }
+      },
+      {
+        "id": "MR152",
+        "level": 2,
+        "name": {
+          "local": "Arafat",
+          "en": "Arafat",
+          "slug": "arafat-mr152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.054",
+      "lon": "-15.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

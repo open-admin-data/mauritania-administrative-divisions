@@ -1,0 +1,30 @@
+{
+  "id": "MR05",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Brakna",
+    "en": "Brakna",
+    "slug": "brakna-mr05"
+  },
+  "code": {
+    "id": "MR05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 6,
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.293",
+    "lon": "-13.279"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MR063",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Mederdra",
+    "en": "Mederdra",
+    "slug": "mederdra-mr063"
+  },
+  "code": {
+    "id": "MR063",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR06",
+    "level": 1,
+    "name": {
+      "local": "Trarza",
+      "en": "Trarza",
+      "slug": "trarza-mr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.12",
+    "lon": "-15.771"
+  },
+  "metadata": {},
+  "source": {}
+}

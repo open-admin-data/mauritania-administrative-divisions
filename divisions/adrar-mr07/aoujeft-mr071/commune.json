@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01275",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aoujeft",
+      "en": "Aoujeft",
+      "slug": "aoujeft"
+    },
+    "code": {
+      "id": "MR01275",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR071",
+      "level": 2,
+      "name": {
+        "local": "Aoujeft",
+        "en": "Aoujeft",
+        "slug": "aoujeft-mr071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR071",
+        "level": 2,
+        "name": {
+          "local": "Aoujeft",
+          "en": "Aoujeft",
+          "slug": "aoujeft-mr071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.009",
+      "lon": "-13.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01278",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Medah",
+      "en": "El Medah",
+      "slug": "el-medah"
+    },
+    "code": {
+      "id": "MR01278",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR071",
+      "level": 2,
+      "name": {
+        "local": "Aoujeft",
+        "en": "Aoujeft",
+        "slug": "aoujeft-mr071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR071",
+        "level": 2,
+        "name": {
+          "local": "Aoujeft",
+          "en": "Aoujeft",
+          "slug": "aoujeft-mr071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.5",
+      "lon": "-13.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01276",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maeden",
+      "en": "Maeden",
+      "slug": "maeden"
+    },
+    "code": {
+      "id": "MR01276",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR071",
+      "level": 2,
+      "name": {
+        "local": "Aoujeft",
+        "en": "Aoujeft",
+        "slug": "aoujeft-mr071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR071",
+        "level": 2,
+        "name": {
+          "local": "Aoujeft",
+          "en": "Aoujeft",
+          "slug": "aoujeft-mr071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.195",
+      "lon": "-13.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01277",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Teirguent",
+      "en": "N'Teirguent",
+      "slug": "nteirguent"
+    },
+    "code": {
+      "id": "MR01277",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR071",
+      "level": 2,
+      "name": {
+        "local": "Aoujeft",
+        "en": "Aoujeft",
+        "slug": "aoujeft-mr071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR071",
+        "level": 2,
+        "name": {
+          "local": "Aoujeft",
+          "en": "Aoujeft",
+          "slug": "aoujeft-mr071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.095",
+      "lon": "-12.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

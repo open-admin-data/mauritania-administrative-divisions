@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MR051",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Aleg",
+      "en": "Aleg",
+      "slug": "aleg-mr051"
+    },
+    "code": {
+      "id": "MR051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.218",
+      "lon": "-13.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR052",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Bababé",
+      "en": "Bababé",
+      "slug": "babab-mr052"
+    },
+    "code": {
+      "id": "MR052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.457",
+      "lon": "-13.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR053",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Boghé",
+      "en": "Boghé",
+      "slug": "bogh-mr053"
+    },
+    "code": {
+      "id": "MR053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.652",
+      "lon": "-14.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR055",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "M'Bagne",
+      "en": "M'Bagne",
+      "slug": "mbagne-mr055"
+    },
+    "code": {
+      "id": "MR055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.273",
+      "lon": "-13.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR056",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Maal",
+      "en": "Maal",
+      "slug": "maal-mr056"
+    },
+    "code": {
+      "id": "MR056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.804",
+      "lon": "-13.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR054",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Magtalahjar",
+      "en": "Magtalahjar",
+      "slug": "magtalahjar-mr054"
+    },
+    "code": {
+      "id": "MR054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.65",
+      "lon": "-13.061"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

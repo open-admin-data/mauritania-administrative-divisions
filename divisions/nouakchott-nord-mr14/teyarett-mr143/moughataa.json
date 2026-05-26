@@ -1,0 +1,47 @@
+{
+  "id": "MR143",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Teyarett",
+    "en": "Teyarett",
+    "slug": "teyarett-mr143"
+  },
+  "code": {
+    "id": "MR143",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR14",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Nord",
+      "en": "Nouakchott Nord",
+      "slug": "nouakchott-nord-mr14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR14",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Nord",
+        "en": "Nouakchott Nord",
+        "slug": "nouakchott-nord-mr14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.067",
+    "lon": "-15.888"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MR01189",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghorat",
+      "en": "Aghorat",
+      "slug": "aghorat"
+    },
+    "code": {
+      "id": "MR01189",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.724",
+      "lon": "-10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01190",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Melgue",
+      "en": "El Melgue",
+      "slug": "el-melgue"
+    },
+    "code": {
+      "id": "MR01190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.701",
+      "lon": "-11.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01187",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiffa",
+      "en": "Kiffa",
+      "slug": "kiffa"
+    },
+    "code": {
+      "id": "MR01187",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.626",
+      "lon": "-11.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01191",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouroudjel",
+      "en": "Kouroudjel",
+      "slug": "kouroudjel"
+    },
+    "code": {
+      "id": "MR01191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.423",
+      "lon": "-11.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01192",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Legrane",
+      "en": "Legrane",
+      "slug": "legrane"
+    },
+    "code": {
+      "id": "MR01192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.36",
+      "lon": "-11.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01188",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nouamlein",
+      "en": "Nouamlein",
+      "slug": "nouamlein"
+    },
+    "code": {
+      "id": "MR01188",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR035",
+      "level": 2,
+      "name": {
+        "local": "Kiffa",
+        "en": "Kiffa",
+        "slug": "kiffa-mr035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR035",
+        "level": 2,
+        "name": {
+          "local": "Kiffa",
+          "en": "Kiffa",
+          "slug": "kiffa-mr035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.11",
+      "lon": "-11.469"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

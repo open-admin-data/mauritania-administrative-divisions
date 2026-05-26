@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MR01149",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gougui Zemmal",
+      "en": "Gougui Zemmal",
+      "slug": "gougui-zemmal"
+    },
+    "code": {
+      "id": "MR01149",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.791",
+      "lon": "-9.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01146",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Ehel Ahmed Bechne",
+      "en": "Hassi Ehel Ahmed Bechne",
+      "slug": "hassi-ehel-ahmed-bechne"
+    },
+    "code": {
+      "id": "MR01146",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.985",
+      "lon": "-9.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01145",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koubenni",
+      "en": "Koubenni",
+      "slug": "koubenni"
+    },
+    "code": {
+      "id": "MR01145",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.808",
+      "lon": "-9.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01148",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leghlig",
+      "en": "Leghlig",
+      "slug": "leghlig"
+    },
+    "code": {
+      "id": "MR01148",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.779",
+      "lon": "-9.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01150",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Modibougou",
+      "en": "Modibougou",
+      "slug": "modibougou"
+    },
+    "code": {
+      "id": "MR01150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.664",
+      "lon": "-9.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01147",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timzine",
+      "en": "Timzine",
+      "slug": "timzine"
+    },
+    "code": {
+      "id": "MR01147",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.209",
+      "lon": "-9.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01151",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Voullaniya",
+      "en": "Voullaniya",
+      "slug": "voullaniya"
+    },
+    "code": {
+      "id": "MR01151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR022",
+      "level": 2,
+      "name": {
+        "local": "Kobeni",
+        "en": "Kobeni",
+        "slug": "kobeni-mr022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR022",
+        "level": 2,
+        "name": {
+          "local": "Kobeni",
+          "en": "Kobeni",
+          "slug": "kobeni-mr022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.602",
+      "lon": "-9.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

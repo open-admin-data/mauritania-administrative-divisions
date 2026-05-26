@@ -1,0 +1,30 @@
+{
+  "id": "MR10",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Guidimagha",
+    "en": "Guidimagha",
+    "slug": "guidimagha-mr10"
+  },
+  "code": {
+    "id": "MR10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 4,
+    "commune": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.389",
+    "lon": "-12.206"
+  },
+  "metadata": {},
+  "source": {}
+}

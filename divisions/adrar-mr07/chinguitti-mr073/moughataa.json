@@ -1,0 +1,47 @@
+{
+  "id": "MR073",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Chinguitti",
+    "en": "Chinguitti",
+    "slug": "chinguitti-mr073"
+  },
+  "code": {
+    "id": "MR073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR07",
+    "level": 1,
+    "name": {
+      "local": "Adrar",
+      "en": "Adrar",
+      "slug": "adrar-mr07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.157",
+    "lon": "-10.245"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "MR06",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Trarza",
+    "en": "Trarza",
+    "slug": "trarza-mr06"
+  },
+  "code": {
+    "id": "MR06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 7,
+    "commune": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.517",
+    "lon": "-15.054"
+  },
+  "metadata": {},
+  "source": {}
+}

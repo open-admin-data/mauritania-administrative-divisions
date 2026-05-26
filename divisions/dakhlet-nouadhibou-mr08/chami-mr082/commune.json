@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01289",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chami",
+      "en": "Chami",
+      "slug": "chami"
+    },
+    "code": {
+      "id": "MR01289",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR082",
+      "level": 2,
+      "name": {
+        "local": "Chami",
+        "en": "Chami",
+        "slug": "chami-mr082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR082",
+        "level": 2,
+        "name": {
+          "local": "Chami",
+          "en": "Chami",
+          "slug": "chami-mr082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.352",
+      "lon": "-15.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01291",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nouamghar",
+      "en": "Nouamghar",
+      "slug": "nouamghar"
+    },
+    "code": {
+      "id": "MR01291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR082",
+      "level": 2,
+      "name": {
+        "local": "Chami",
+        "en": "Chami",
+        "slug": "chami-mr082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR082",
+        "level": 2,
+        "name": {
+          "local": "Chami",
+          "en": "Chami",
+          "slug": "chami-mr082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.504",
+      "lon": "-15.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01290",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tmeimichat",
+      "en": "Tmeimichat",
+      "slug": "tmeimichat"
+    },
+    "code": {
+      "id": "MR01290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR082",
+      "level": 2,
+      "name": {
+        "local": "Chami",
+        "en": "Chami",
+        "slug": "chami-mr082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR082",
+        "level": 2,
+        "name": {
+          "local": "Chami",
+          "en": "Chami",
+          "slug": "chami-mr082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.833",
+      "lon": "-14.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

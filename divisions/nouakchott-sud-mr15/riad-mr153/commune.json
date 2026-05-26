@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01338",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Riyad",
+      "en": "Riyad",
+      "slug": "riyad"
+    },
+    "code": {
+      "id": "MR01338",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR153",
+      "level": 2,
+      "name": {
+        "local": "Riad",
+        "en": "Riad",
+        "slug": "riad-mr153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR15",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Sud",
+          "en": "Nouakchott Sud",
+          "slug": "nouakchott-sud-mr15"
+        }
+      },
+      {
+        "id": "MR153",
+        "level": 2,
+        "name": {
+          "local": "Riad",
+          "en": "Riad",
+          "slug": "riad-mr153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.971",
+      "lon": "-15.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

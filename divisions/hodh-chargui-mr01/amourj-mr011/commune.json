@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01101",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amourj",
+      "en": "Amourj",
+      "slug": "amourj"
+    },
+    "code": {
+      "id": "MR01101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR011",
+      "level": 2,
+      "name": {
+        "local": "Amourj",
+        "en": "Amourj",
+        "slug": "amourj-mr011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR011",
+        "level": 2,
+        "name": {
+          "local": "Amourj",
+          "en": "Amourj",
+          "slug": "amourj-mr011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.081",
+      "lon": "-7.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01103",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougadoum",
+      "en": "Bougadoum",
+      "slug": "bougadoum"
+    },
+    "code": {
+      "id": "MR01103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR011",
+      "level": 2,
+      "name": {
+        "local": "Amourj",
+        "en": "Amourj",
+        "slug": "amourj-mr011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR011",
+        "level": 2,
+        "name": {
+          "local": "Amourj",
+          "en": "Amourj",
+          "slug": "amourj-mr011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.835",
+      "lon": "-7.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01104",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djigui",
+      "en": "Djigui",
+      "slug": "djigui"
+    },
+    "code": {
+      "id": "MR01104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR011",
+      "level": 2,
+      "name": {
+        "local": "Amourj",
+        "en": "Amourj",
+        "slug": "amourj-mr011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR011",
+        "level": 2,
+        "name": {
+          "local": "Amourj",
+          "en": "Amourj",
+          "slug": "amourj-mr011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.672",
+      "lon": "-7.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01105",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Legdour",
+      "en": "Legdour",
+      "slug": "legdour"
+    },
+    "code": {
+      "id": "MR01105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR011",
+      "level": 2,
+      "name": {
+        "local": "Amourj",
+        "en": "Amourj",
+        "slug": "amourj-mr011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR011",
+        "level": 2,
+        "name": {
+          "local": "Amourj",
+          "en": "Amourj",
+          "slug": "amourj-mr011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.866",
+      "lon": "-7.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01102",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Echeich",
+      "en": "Oum Echeich",
+      "slug": "oum-echeich"
+    },
+    "code": {
+      "id": "MR01102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR011",
+      "level": 2,
+      "name": {
+        "local": "Amourj",
+        "en": "Amourj",
+        "slug": "amourj-mr011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR011",
+        "level": 2,
+        "name": {
+          "local": "Amourj",
+          "en": "Amourj",
+          "slug": "amourj-mr011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.677",
+      "lon": "-7.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

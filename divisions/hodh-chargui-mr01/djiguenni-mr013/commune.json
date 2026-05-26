@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MR01114",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aoueinat Ez Bel",
+      "en": "Aoueinat Ez Bel",
+      "slug": "aoueinat-ez-bel"
+    },
+    "code": {
+      "id": "MR01114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.338",
+      "lon": "-8.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01113",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beneamane",
+      "en": "Beneamane",
+      "slug": "beneamane"
+    },
+    "code": {
+      "id": "MR01113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.923",
+      "lon": "-8.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01110",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djiguenni",
+      "en": "Djiguenni",
+      "slug": "djiguenni"
+    },
+    "code": {
+      "id": "MR01110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.736",
+      "lon": "-8.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01111",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mabrouk 1",
+      "en": "El Mabrouk 1",
+      "slug": "el-mabrouk-1"
+    },
+    "code": {
+      "id": "MR01111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.671",
+      "lon": "-8.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01112",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Feirenni",
+      "en": "Feirenni",
+      "slug": "feirenni"
+    },
+    "code": {
+      "id": "MR01112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.566",
+      "lon": "-8.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01115",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghlig Ehel Beye",
+      "en": "Ghlig Ehel Beye",
+      "slug": "ghlig-ehel-beye"
+    },
+    "code": {
+      "id": "MR01115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.964",
+      "lon": "-8.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01116",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kasr El Barke",
+      "en": "Kasr El Barke",
+      "slug": "kasr-el-barke"
+    },
+    "code": {
+      "id": "MR01116",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR013",
+      "level": 2,
+      "name": {
+        "local": "Djiguenni",
+        "en": "Djiguenni",
+        "slug": "djiguenni-mr013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR013",
+        "level": 2,
+        "name": {
+          "local": "Djiguenni",
+          "en": "Djiguenni",
+          "slug": "djiguenni-mr013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.729",
+      "lon": "-8.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MR067",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Tekane",
+    "en": "Tekane",
+    "slug": "tekane-mr067"
+  },
+  "code": {
+    "id": "MR067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR06",
+    "level": 1,
+    "name": {
+      "local": "Trarza",
+      "en": "Trarza",
+      "slug": "trarza-mr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.742",
+    "lon": "-15.17"
+  },
+  "metadata": {},
+  "source": {}
+}

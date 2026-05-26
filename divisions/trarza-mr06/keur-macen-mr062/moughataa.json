@@ -1,0 +1,47 @@
+{
+  "id": "MR062",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Keur Macen",
+    "en": "Keur Macen",
+    "slug": "keur-macen-mr062"
+  },
+  "code": {
+    "id": "MR062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR06",
+    "level": 1,
+    "name": {
+      "local": "Trarza",
+      "en": "Trarza",
+      "slug": "trarza-mr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.528",
+    "lon": "-16.309"
+  },
+  "metadata": {},
+  "source": {}
+}

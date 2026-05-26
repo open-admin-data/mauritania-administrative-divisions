@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01285",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouadane",
+      "en": "Ouadane",
+      "slug": "ouadane"
+    },
+    "code": {
+      "id": "MR01285",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR074",
+      "level": 2,
+      "name": {
+        "local": "Ouadane",
+        "en": "Ouadane",
+        "slug": "ouadane-mr074"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR074",
+        "level": 2,
+        "name": {
+          "local": "Ouadane",
+          "en": "Ouadane",
+          "slug": "ouadane-mr074"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.348",
+      "lon": "-8.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

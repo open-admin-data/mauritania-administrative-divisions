@@ -1,0 +1,30 @@
+{
+  "id": "MR13",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Nouakchott Ouest",
+    "en": "Nouakchott Ouest",
+    "slug": "nouakchott-ouest-mr13"
+  },
+  "code": {
+    "id": "MR13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.305",
+    "lon": "-15.974"
+  },
+  "metadata": {},
+  "source": {}
+}

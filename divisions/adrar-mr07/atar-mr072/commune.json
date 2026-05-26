@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01280",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "AÃ¯n Ehel Taya",
+      "en": "AÃ¯n Ehel Taya",
+      "slug": "an-ehel-taya"
+    },
+    "code": {
+      "id": "MR01280",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR072",
+      "level": 2,
+      "name": {
+        "local": "Atar",
+        "en": "Atar",
+        "slug": "atar-mr072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR072",
+        "level": 2,
+        "name": {
+          "local": "Atar",
+          "en": "Atar",
+          "slug": "atar-mr072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.208",
+      "lon": "-13.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01279",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Atar",
+      "en": "Atar",
+      "slug": "atar"
+    },
+    "code": {
+      "id": "MR01279",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR072",
+      "level": 2,
+      "name": {
+        "local": "Atar",
+        "en": "Atar",
+        "slug": "atar-mr072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR072",
+        "level": 2,
+        "name": {
+          "local": "Atar",
+          "en": "Atar",
+          "slug": "atar-mr072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.503",
+      "lon": "-13.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01282",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Choum",
+      "en": "Choum",
+      "slug": "choum"
+    },
+    "code": {
+      "id": "MR01282",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR072",
+      "level": 2,
+      "name": {
+        "local": "Atar",
+        "en": "Atar",
+        "slug": "atar-mr072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR072",
+        "level": 2,
+        "name": {
+          "local": "Atar",
+          "en": "Atar",
+          "slug": "atar-mr072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.365",
+      "lon": "-12.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01281",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tawaz",
+      "en": "Tawaz",
+      "slug": "tawaz"
+    },
+    "code": {
+      "id": "MR01281",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR072",
+      "level": 2,
+      "name": {
+        "local": "Atar",
+        "en": "Atar",
+        "slug": "atar-mr072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      },
+      {
+        "id": "MR072",
+        "level": 2,
+        "name": {
+          "local": "Atar",
+          "en": "Atar",
+          "slug": "atar-mr072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.797",
+      "lon": "-13.297"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

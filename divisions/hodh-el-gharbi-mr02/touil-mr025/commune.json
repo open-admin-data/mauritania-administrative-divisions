@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01164",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baghdad",
+      "en": "Baghdad",
+      "slug": "baghdad"
+    },
+    "code": {
+      "id": "MR01164",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR025",
+      "level": 2,
+      "name": {
+        "local": "Touil",
+        "en": "Touil",
+        "slug": "touil-mr025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR025",
+        "level": 2,
+        "name": {
+          "local": "Touil",
+          "en": "Touil",
+          "slug": "touil-mr025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.598",
+      "lon": "-10.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01166",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lehreijat",
+      "en": "Lehreijat",
+      "slug": "lehreijat"
+    },
+    "code": {
+      "id": "MR01166",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR025",
+      "level": 2,
+      "name": {
+        "local": "Touil",
+        "en": "Touil",
+        "slug": "touil-mr025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR025",
+        "level": 2,
+        "name": {
+          "local": "Touil",
+          "en": "Touil",
+          "slug": "touil-mr025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.598",
+      "lon": "-10.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01165",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sett",
+      "en": "Sett",
+      "slug": "sett"
+    },
+    "code": {
+      "id": "MR01165",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR025",
+      "level": 2,
+      "name": {
+        "local": "Touil",
+        "en": "Touil",
+        "slug": "touil-mr025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR025",
+        "level": 2,
+        "name": {
+          "local": "Touil",
+          "en": "Touil",
+          "slug": "touil-mr025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.579",
+      "lon": "-10.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01163",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touil 2",
+      "en": "Touil 2",
+      "slug": "touil-2"
+    },
+    "code": {
+      "id": "MR01163",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR025",
+      "level": 2,
+      "name": {
+        "local": "Touil",
+        "en": "Touil",
+        "slug": "touil-mr025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR025",
+        "level": 2,
+        "name": {
+          "local": "Touil",
+          "en": "Touil",
+          "slug": "touil-mr025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.602",
+      "lon": "-10.175"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

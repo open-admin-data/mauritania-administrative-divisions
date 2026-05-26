@@ -1,0 +1,47 @@
+{
+  "id": "MR056",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Maal",
+    "en": "Maal",
+    "slug": "maal-mr056"
+  },
+  "code": {
+    "id": "MR056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR05",
+    "level": 1,
+    "name": {
+      "local": "Brakna",
+      "en": "Brakna",
+      "slug": "brakna-mr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.804",
+    "lon": "-13.281"
+  },
+  "metadata": {},
+  "source": {}
+}

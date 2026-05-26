@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01268",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bareine",
+      "en": "Bareine",
+      "slug": "bareine"
+    },
+    "code": {
+      "id": "MR01268",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR065",
+      "level": 2,
+      "name": {
+        "local": "R'Kiz",
+        "en": "R'Kiz",
+        "slug": "rkiz-mr065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR065",
+        "level": 2,
+        "name": {
+          "local": "R'Kiz",
+          "en": "R'Kiz",
+          "slug": "rkiz-mr065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.154",
+      "lon": "-15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01267",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boutalhaye",
+      "en": "Boutalhaye",
+      "slug": "boutalhaye"
+    },
+    "code": {
+      "id": "MR01267",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR065",
+      "level": 2,
+      "name": {
+        "local": "R'Kiz",
+        "en": "R'Kiz",
+        "slug": "rkiz-mr065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR065",
+        "level": 2,
+        "name": {
+          "local": "R'Kiz",
+          "en": "R'Kiz",
+          "slug": "rkiz-mr065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.053",
+      "lon": "-14.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01266",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "R'Kiz",
+      "en": "R'Kiz",
+      "slug": "rkiz"
+    },
+    "code": {
+      "id": "MR01266",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR065",
+      "level": 2,
+      "name": {
+        "local": "R'Kiz",
+        "en": "R'Kiz",
+        "slug": "rkiz-mr065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR065",
+        "level": 2,
+        "name": {
+          "local": "R'Kiz",
+          "en": "R'Kiz",
+          "slug": "rkiz-mr065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.917",
+      "lon": "-15.209"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

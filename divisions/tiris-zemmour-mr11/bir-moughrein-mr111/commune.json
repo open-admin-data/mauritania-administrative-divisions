@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01324",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birmoughrein",
+      "en": "Birmoughrein",
+      "slug": "birmoughrein"
+    },
+    "code": {
+      "id": "MR01324",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR111",
+      "level": 2,
+      "name": {
+        "local": "Bir Moughrein",
+        "en": "Bir Moughrein",
+        "slug": "bir-moughrein-mr111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR11",
+        "level": 1,
+        "name": {
+          "local": "Tiris Zemmour",
+          "en": "Tiris Zemmour",
+          "slug": "tiris-zemmour-mr11"
+        }
+      },
+      {
+        "id": "MR111",
+        "level": 2,
+        "name": {
+          "local": "Bir Moughrein",
+          "en": "Bir Moughrein",
+          "slug": "bir-moughrein-mr111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.152",
+      "lon": "-7.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

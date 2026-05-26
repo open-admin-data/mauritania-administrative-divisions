@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MR01167",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barkeiwel",
+      "en": "Barkeiwel",
+      "slug": "barkeiwel"
+    },
+    "code": {
+      "id": "MR01167",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.634",
+      "lon": "-12.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01174",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bou Lahrath",
+      "en": "Bou Lahrath",
+      "slug": "bou-lahrath"
+    },
+    "code": {
+      "id": "MR01174",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.031",
+      "lon": "-12.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01171",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Daghveg",
+      "en": "Daghveg",
+      "slug": "daghveg"
+    },
+    "code": {
+      "id": "MR01171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.464",
+      "lon": "-12.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01172",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghabra",
+      "en": "El Ghabra",
+      "slug": "el-ghabra"
+    },
+    "code": {
+      "id": "MR01172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.562",
+      "lon": "-12.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01168",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gueller",
+      "en": "Gueller",
+      "slug": "gueller"
+    },
+    "code": {
+      "id": "MR01168",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.864",
+      "lon": "-12.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01170",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Laweissi",
+      "en": "Laweissi",
+      "slug": "laweissi"
+    },
+    "code": {
+      "id": "MR01170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.235",
+      "lon": "-12.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01169",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lebheir",
+      "en": "Lebheir",
+      "slug": "lebheir"
+    },
+    "code": {
+      "id": "MR01169",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.521",
+      "lon": "-12.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01173",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "R'Dheidhie",
+      "en": "R'Dheidhie",
+      "slug": "rdheidhie"
+    },
+    "code": {
+      "id": "MR01173",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR031",
+      "level": 2,
+      "name": {
+        "local": "Barkéol",
+        "en": "Barkéol",
+        "slug": "barkol-mr031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR031",
+        "level": 2,
+        "name": {
+          "local": "Barkéol",
+          "en": "Barkéol",
+          "slug": "barkol-mr031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.948",
+      "lon": "-12.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

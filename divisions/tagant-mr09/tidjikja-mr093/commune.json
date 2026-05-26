@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01300",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boubacar Ben Amer",
+      "en": "Boubacar Ben Amer",
+      "slug": "boubacar-ben-amer"
+    },
+    "code": {
+      "id": "MR01300",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR093",
+      "level": 2,
+      "name": {
+        "local": "Tidjikja",
+        "en": "Tidjikja",
+        "slug": "tidjikja-mr093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR093",
+        "level": 2,
+        "name": {
+          "local": "Tidjikja",
+          "en": "Tidjikja",
+          "slug": "tidjikja-mr093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.839",
+      "lon": "-11.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01298",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Wahat",
+      "en": "El Wahat",
+      "slug": "el-wahat"
+    },
+    "code": {
+      "id": "MR01298",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR093",
+      "level": 2,
+      "name": {
+        "local": "Tidjikja",
+        "en": "Tidjikja",
+        "slug": "tidjikja-mr093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR093",
+        "level": 2,
+        "name": {
+          "local": "Tidjikja",
+          "en": "Tidjikja",
+          "slug": "tidjikja-mr093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.043",
+      "lon": "-11.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01301",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lehsira",
+      "en": "Lehsira",
+      "slug": "lehsira"
+    },
+    "code": {
+      "id": "MR01301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR093",
+      "level": 2,
+      "name": {
+        "local": "Tidjikja",
+        "en": "Tidjikja",
+        "slug": "tidjikja-mr093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR093",
+        "level": 2,
+        "name": {
+          "local": "Tidjikja",
+          "en": "Tidjikja",
+          "slug": "tidjikja-mr093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.495",
+      "lon": "-11.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01299",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tensigh",
+      "en": "Tensigh",
+      "slug": "tensigh"
+    },
+    "code": {
+      "id": "MR01299",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR093",
+      "level": 2,
+      "name": {
+        "local": "Tidjikja",
+        "en": "Tidjikja",
+        "slug": "tidjikja-mr093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR093",
+        "level": 2,
+        "name": {
+          "local": "Tidjikja",
+          "en": "Tidjikja",
+          "slug": "tidjikja-mr093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.21",
+      "lon": "-11.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01297",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tidjikdja",
+      "en": "Tidjikdja",
+      "slug": "tidjikdja"
+    },
+    "code": {
+      "id": "MR01297",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR093",
+      "level": 2,
+      "name": {
+        "local": "Tidjikja",
+        "en": "Tidjikja",
+        "slug": "tidjikja-mr093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR093",
+        "level": 2,
+        "name": {
+          "local": "Tidjikja",
+          "en": "Tidjikja",
+          "slug": "tidjikja-mr093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.399",
+      "lon": "-11.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

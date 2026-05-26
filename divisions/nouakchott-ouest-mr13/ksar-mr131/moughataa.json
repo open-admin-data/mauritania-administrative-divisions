@@ -1,0 +1,47 @@
+{
+  "id": "MR131",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Ksar",
+    "en": "Ksar",
+    "slug": "ksar-mr131"
+  },
+  "code": {
+    "id": "MR131",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR13",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Ouest",
+      "en": "Nouakchott Ouest",
+      "slug": "nouakchott-ouest-mr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR13",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Ouest",
+        "en": "Nouakchott Ouest",
+        "slug": "nouakchott-ouest-mr13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.33",
+    "lon": "-15.931"
+  },
+  "metadata": {},
+  "source": {}
+}

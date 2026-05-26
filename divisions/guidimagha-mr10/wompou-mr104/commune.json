@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01320",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Agoueinitt",
+      "en": "Agoueinitt",
+      "slug": "agoueinitt"
+    },
+    "code": {
+      "id": "MR01320",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR104",
+      "level": 2,
+      "name": {
+        "local": "Wompou",
+        "en": "Wompou",
+        "slug": "wompou-mr104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR104",
+        "level": 2,
+        "name": {
+          "local": "Wompou",
+          "en": "Wompou",
+          "slug": "wompou-mr104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.578",
+      "lon": "-12.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01323",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arr",
+      "en": "Arr",
+      "slug": "arr"
+    },
+    "code": {
+      "id": "MR01323",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR104",
+      "level": 2,
+      "name": {
+        "local": "Wompou",
+        "en": "Wompou",
+        "slug": "wompou-mr104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR104",
+        "level": 2,
+        "name": {
+          "local": "Wompou",
+          "en": "Wompou",
+          "slug": "wompou-mr104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.366",
+      "lon": "-12.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01321",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ejar",
+      "en": "Ejar",
+      "slug": "ejar"
+    },
+    "code": {
+      "id": "MR01321",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR104",
+      "level": 2,
+      "name": {
+        "local": "Wompou",
+        "en": "Wompou",
+        "slug": "wompou-mr104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR104",
+        "level": 2,
+        "name": {
+          "local": "Wompou",
+          "en": "Wompou",
+          "slug": "wompou-mr104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.504",
+      "lon": "-12.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01322",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sagne Dieri",
+      "en": "Sagne Dieri",
+      "slug": "sagne-dieri"
+    },
+    "code": {
+      "id": "MR01322",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR104",
+      "level": 2,
+      "name": {
+        "local": "Wompou",
+        "en": "Wompou",
+        "slug": "wompou-mr104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR104",
+        "level": 2,
+        "name": {
+          "local": "Wompou",
+          "en": "Wompou",
+          "slug": "wompou-mr104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.154",
+      "lon": "-12.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01319",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wompou",
+      "en": "Wompou",
+      "slug": "wompou"
+    },
+    "code": {
+      "id": "MR01319",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR104",
+      "level": 2,
+      "name": {
+        "local": "Wompou",
+        "en": "Wompou",
+        "slug": "wompou-mr104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR104",
+        "level": 2,
+        "name": {
+          "local": "Wompou",
+          "en": "Wompou",
+          "slug": "wompou-mr104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.176",
+      "lon": "-12.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

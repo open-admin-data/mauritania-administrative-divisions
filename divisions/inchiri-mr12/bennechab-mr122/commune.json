@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MR01328",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bennechab",
+      "en": "Bennechab",
+      "slug": "bennechab"
+    },
+    "code": {
+      "id": "MR01328",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR122",
+      "level": 2,
+      "name": {
+        "local": "Bennechab",
+        "en": "Bennechab",
+        "slug": "bennechab-mr122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR12",
+        "level": 1,
+        "name": {
+          "local": "Inchiri",
+          "en": "Inchiri",
+          "slug": "inchiri-mr12"
+        }
+      },
+      {
+        "id": "MR122",
+        "level": 2,
+        "name": {
+          "local": "Bennechab",
+          "en": "Bennechab",
+          "slug": "bennechab-mr122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.84",
+      "lon": "-15.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01329",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mheijrat",
+      "en": "Mheijrat",
+      "slug": "mheijrat"
+    },
+    "code": {
+      "id": "MR01329",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR122",
+      "level": 2,
+      "name": {
+        "local": "Bennechab",
+        "en": "Bennechab",
+        "slug": "bennechab-mr122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR12",
+        "level": 1,
+        "name": {
+          "local": "Inchiri",
+          "en": "Inchiri",
+          "slug": "inchiri-mr12"
+        }
+      },
+      {
+        "id": "MR122",
+        "level": 2,
+        "name": {
+          "local": "Bennechab",
+          "en": "Bennechab",
+          "slug": "bennechab-mr122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.81",
+      "lon": "-15.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

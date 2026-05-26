@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MR01128",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Elbatene",
+      "en": "Elbatene",
+      "slug": "elbatene"
+    },
+    "code": {
+      "id": "MR01128",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR015",
+      "level": 2,
+      "name": {
+        "local": "Oualata",
+        "en": "Oualata",
+        "slug": "oualata-mr015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR015",
+        "level": 2,
+        "name": {
+          "local": "Oualata",
+          "en": "Oualata",
+          "slug": "oualata-mr015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.177",
+      "lon": "-7.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01127",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oualata",
+      "en": "Oualata",
+      "slug": "oualata"
+    },
+    "code": {
+      "id": "MR01127",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR015",
+      "level": 2,
+      "name": {
+        "local": "Oualata",
+        "en": "Oualata",
+        "slug": "oualata-mr015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR015",
+        "level": 2,
+        "name": {
+          "local": "Oualata",
+          "en": "Oualata",
+          "slug": "oualata-mr015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.092",
+      "lon": "-6.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

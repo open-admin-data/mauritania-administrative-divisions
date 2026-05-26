@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01255",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Keurmacen",
+      "en": "Keurmacen",
+      "slug": "keurmacen"
+    },
+    "code": {
+      "id": "MR01255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR062",
+      "level": 2,
+      "name": {
+        "local": "Keur Macen",
+        "en": "Keur Macen",
+        "slug": "keur-macen-mr062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR062",
+        "level": 2,
+        "name": {
+          "local": "Keur Macen",
+          "en": "Keur Macen",
+          "slug": "keur-macen-mr062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.568",
+      "lon": "-16.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01257",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Balal",
+      "en": "M'Balal",
+      "slug": "mbalal"
+    },
+    "code": {
+      "id": "MR01257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR062",
+      "level": 2,
+      "name": {
+        "local": "Keur Macen",
+        "en": "Keur Macen",
+        "slug": "keur-macen-mr062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR062",
+        "level": 2,
+        "name": {
+          "local": "Keur Macen",
+          "en": "Keur Macen",
+          "slug": "keur-macen-mr062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.75",
+      "lon": "-16.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01256",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Diago",
+      "en": "N'Diago",
+      "slug": "ndiago"
+    },
+    "code": {
+      "id": "MR01256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR062",
+      "level": 2,
+      "name": {
+        "local": "Keur Macen",
+        "en": "Keur Macen",
+        "slug": "keur-macen-mr062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR062",
+        "level": 2,
+        "name": {
+          "local": "Keur Macen",
+          "en": "Keur Macen",
+          "slug": "keur-macen-mr062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.333",
+      "lon": "-16.431"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

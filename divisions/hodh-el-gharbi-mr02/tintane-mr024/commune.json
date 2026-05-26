@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MR01160",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "AÃ¯n Varbe",
+      "en": "AÃ¯n Varbe",
+      "slug": "an-varbe"
+    },
+    "code": {
+      "id": "MR01160",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.861",
+      "lon": "-10.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01159",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aweinat Thalle",
+      "en": "Aweinat Thalle",
+      "slug": "aweinat-thalle"
+    },
+    "code": {
+      "id": "MR01159",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.938",
+      "lon": "-10.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01162",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dev-a",
+      "en": "Dev-a",
+      "slug": "dev-a"
+    },
+    "code": {
+      "id": "MR01162",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.417",
+      "lon": "-10.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01161",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Egharghar",
+      "en": "Egharghar",
+      "slug": "egharghar"
+    },
+    "code": {
+      "id": "MR01161",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.186",
+      "lon": "-10.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01158",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Abdallah",
+      "en": "Hassi Abdallah",
+      "slug": "hassi-abdallah"
+    },
+    "code": {
+      "id": "MR01158",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.312",
+      "lon": "-10.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01157",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tintan",
+      "en": "Tintan",
+      "slug": "tintan"
+    },
+    "code": {
+      "id": "MR01157",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR024",
+      "level": 2,
+      "name": {
+        "local": "Tintane",
+        "en": "Tintane",
+        "slug": "tintane-mr024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR024",
+        "level": 2,
+        "name": {
+          "local": "Tintane",
+          "en": "Tintane",
+          "slug": "tintane-mr024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.401",
+      "lon": "-10.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

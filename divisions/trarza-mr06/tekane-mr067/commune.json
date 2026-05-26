@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01272",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chemame",
+      "en": "Chemame",
+      "slug": "chemame"
+    },
+    "code": {
+      "id": "MR01272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR067",
+      "level": 2,
+      "name": {
+        "local": "Tekane",
+        "en": "Tekane",
+        "slug": "tekane-mr067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR067",
+        "level": 2,
+        "name": {
+          "local": "Tekane",
+          "en": "Tekane",
+          "slug": "tekane-mr067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.765",
+      "lon": "-15.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01274",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lexelbe 2",
+      "en": "Lexelbe 2",
+      "slug": "lexelbe-2"
+    },
+    "code": {
+      "id": "MR01274",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR067",
+      "level": 2,
+      "name": {
+        "local": "Tekane",
+        "en": "Tekane",
+        "slug": "tekane-mr067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR067",
+        "level": 2,
+        "name": {
+          "local": "Tekane",
+          "en": "Tekane",
+          "slug": "tekane-mr067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.782",
+      "lon": "-14.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01273",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Teichteyat",
+      "en": "Teichteyat",
+      "slug": "teichteyat"
+    },
+    "code": {
+      "id": "MR01273",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR067",
+      "level": 2,
+      "name": {
+        "local": "Tekane",
+        "en": "Tekane",
+        "slug": "tekane-mr067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR067",
+        "level": 2,
+        "name": {
+          "local": "Tekane",
+          "en": "Tekane",
+          "slug": "tekane-mr067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.805",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01271",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Teikane",
+      "en": "Teikane",
+      "slug": "teikane"
+    },
+    "code": {
+      "id": "MR01271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR067",
+      "level": 2,
+      "name": {
+        "local": "Tekane",
+        "en": "Tekane",
+        "slug": "tekane-mr067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR067",
+        "level": 2,
+        "name": {
+          "local": "Tekane",
+          "en": "Tekane",
+          "slug": "tekane-mr067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.599",
+      "lon": "-15.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

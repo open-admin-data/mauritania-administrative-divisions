@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01327",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akjoujt",
+      "en": "Akjoujt",
+      "slug": "akjoujt"
+    },
+    "code": {
+      "id": "MR01327",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR121",
+      "level": 2,
+      "name": {
+        "local": "Akjoujt",
+        "en": "Akjoujt",
+        "slug": "akjoujt-mr121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR12",
+        "level": 1,
+        "name": {
+          "local": "Inchiri",
+          "en": "Inchiri",
+          "slug": "inchiri-mr12"
+        }
+      },
+      {
+        "id": "MR121",
+        "level": 2,
+        "name": {
+          "local": "Akjoujt",
+          "en": "Akjoujt",
+          "slug": "akjoujt-mr121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.906",
+      "lon": "-14.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

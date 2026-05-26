@@ -1,0 +1,47 @@
+{
+  "id": "MR142",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Dar Naïm",
+    "en": "Dar Naïm",
+    "slug": "dar-nam-mr142"
+  },
+  "code": {
+    "id": "MR142",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR14",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Nord",
+      "en": "Nouakchott Nord",
+      "slug": "nouakchott-nord-mr14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR14",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Nord",
+        "en": "Nouakchott Nord",
+        "slug": "nouakchott-nord-mr14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.122",
+    "lon": "-15.912"
+  },
+  "metadata": {},
+  "source": {}
+}

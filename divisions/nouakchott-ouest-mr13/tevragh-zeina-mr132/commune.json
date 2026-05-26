@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01331",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tefragh Zeina",
+      "en": "Tefragh Zeina",
+      "slug": "tefragh-zeina"
+    },
+    "code": {
+      "id": "MR01331",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR132",
+      "level": 2,
+      "name": {
+        "local": "Tevragh Zeina",
+        "en": "Tevragh Zeina",
+        "slug": "tevragh-zeina-mr132"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR13",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Ouest",
+          "en": "Nouakchott Ouest",
+          "slug": "nouakchott-ouest-mr13"
+        }
+      },
+      {
+        "id": "MR132",
+        "level": 2,
+        "name": {
+          "local": "Tevragh Zeina",
+          "en": "Tevragh Zeina",
+          "slug": "tevragh-zeina-mr132"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.3",
+      "lon": "-16.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

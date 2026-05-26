@@ -1,0 +1,47 @@
+{
+  "id": "MR066",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Rosso",
+    "en": "Rosso",
+    "slug": "rosso-mr066"
+  },
+  "code": {
+    "id": "MR066",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR06",
+    "level": 1,
+    "name": {
+      "local": "Trarza",
+      "en": "Trarza",
+      "slug": "trarza-mr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.654",
+    "lon": "-15.698"
+  },
+  "metadata": {},
+  "source": {}
+}

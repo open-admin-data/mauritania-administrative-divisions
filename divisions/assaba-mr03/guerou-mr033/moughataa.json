@@ -1,0 +1,47 @@
+{
+  "id": "MR033",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Guerou",
+    "en": "Guerou",
+    "slug": "guerou-mr033"
+  },
+  "code": {
+    "id": "MR033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR03",
+    "level": 1,
+    "name": {
+      "local": "Assaba",
+      "en": "Assaba",
+      "slug": "assaba-mr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.876",
+    "lon": "-11.929"
+  },
+  "metadata": {},
+  "source": {}
+}

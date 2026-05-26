@@ -1,0 +1,158 @@
+# Gorgol — Mauritania Administrative Divisions
+
+> 5 moughataas, 31 communes
+> Code: MR04
+> Coordinates: 15.947, -12.676
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Kaedi
+
+Code: MR041, Coordinates: 15.958, -12.9
+Communes: 5
+
+#### Djewol
+
+Code: MR01195, Coordinates: 16.084, -13.347
+
+#### Kaedi
+
+Code: MR01193, Coordinates: 16.179, -13.477
+
+#### NÃ©rÃ© Walo
+
+Code: MR01194, Coordinates: 16.228, -13.579
+
+#### TifondÃ© CivÃ©
+
+Code: MR01197, Coordinates: 15.822, -12.988
+
+#### Toghomadi
+
+Code: MR01196, Coordinates: 15.856, -13.163
+
+### Lexeibe 1
+
+Code: MR045, Coordinates: 16.174, -13.062
+Communes: 4
+
+#### Betengal
+
+Code: MR01221, Coordinates: 16.109, -12.945
+
+#### Ganki
+
+Code: MR01223, Coordinates: 16.306, -13.384
+
+#### Lexeiba 1
+
+Code: MR01220, Coordinates: 16.209, -13.1
+
+#### Talhaye
+
+Code: MR01222, Coordinates: 16.062, -13.148
+
+### M&#39;Bout
+
+Code: MR043, Coordinates: 16.014, -12.377
+Communes: 9
+
+#### Chelkhet Tiyab
+
+Code: MR01212, Coordinates: 16.329, -12.77
+
+#### Edebaye Ehel Guelaye
+
+Code: MR01210, Coordinates: 15.763, -12.681
+
+#### Lahrach
+
+Code: MR01213, Coordinates: 16.286, -12.54
+
+#### M&#39;Boud
+
+Code: MR01206, Coordinates: 16.025, -12.575
+
+#### N&#39;Djadjbenni GandÃ©ga
+
+Code: MR01209, Coordinates: 15.803, -12.523
+
+#### Souve
+
+Code: MR01214, Coordinates: 15.993, -12.148
+
+#### Terenguel Ehel Moulaye Ely
+
+Code: MR01208, Coordinates: 15.867, -12.381
+
+#### Tikobra
+
+Code: MR01207, Coordinates: 16.143, -12.376
+
+#### Voum Legleite
+
+Code: MR01211, Coordinates: 16.043, -12.705
+
+### Maghama
+
+Code: MR042, Coordinates: 15.534, -12.854
+Communes: 8
+
+#### Beilouguet Litame
+
+Code: MR01201, Coordinates: 15.756, -12.871
+
+#### Dolol CivÃ©
+
+Code: MR01200, Coordinates: 15.584, -13.044
+
+#### Doo
+
+Code: MR01199, Coordinates: 15.507, -12.996
+
+#### Maghama
+
+Code: MR01198, Coordinates: 15.511, -12.846
+
+#### SagnÃ©
+
+Code: MR01204, Coordinates: 15.212, -12.762
+
+#### Toulel
+
+Code: MR01203, Coordinates: 15.366, -12.768
+
+#### Vrea Litame
+
+Code: MR01202, Coordinates: 15.5, -12.7
+
+#### Wali Djantang
+
+Code: MR01205, Coordinates: 15.37, -12.906
+
+### Mounguel
+
+Code: MR044, Coordinates: 16.487, -12.967
+Communes: 5
+
+#### Azgueilem Tiyab
+
+Code: MR01219, Coordinates: 16.342, -13.031
+
+#### Bathet MoÃ¯t
+
+Code: MR01216, Coordinates: 16.483, -13.084
+
+#### Bokhol
+
+Code: MR01217, Coordinates: 16.49, -12.943
+
+#### Melzem Teichet
+
+Code: MR01218, Coordinates: 16.607, -12.865
+
+#### Mounguel
+
+Code: MR01215, Coordinates: 16.383, -13.135
+

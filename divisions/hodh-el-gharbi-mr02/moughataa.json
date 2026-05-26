@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MR021",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Aïoun",
+      "en": "Aïoun",
+      "slug": "aoun-mr021"
+    },
+    "code": {
+      "id": "MR021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.727",
+      "lon": "-9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR022",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Kobeni",
+      "en": "Kobeni",
+      "slug": "kobeni-mr022"
+    },
+    "code": {
+      "id": "MR022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.902",
+      "lon": "-9.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR023",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Tamchekett",
+      "en": "Tamchekett",
+      "slug": "tamchekett-mr023"
+    },
+    "code": {
+      "id": "MR023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-10.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR024",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Tintane",
+      "en": "Tintane",
+      "slug": "tintane-mr024"
+    },
+    "code": {
+      "id": "MR024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.11",
+      "lon": "-10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR025",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Touil",
+      "en": "Touil",
+      "slug": "touil-mr025"
+    },
+    "code": {
+      "id": "MR025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR02",
+      "level": 1,
+      "name": {
+        "local": "Hodh El Gharbi",
+        "en": "Hodh El Gharbi",
+        "slug": "hodh-el-gharbi-mr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.556",
+      "lon": "-10.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

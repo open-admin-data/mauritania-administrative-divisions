@@ -1,0 +1,30 @@
+{
+  "id": "MR11",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Tiris Zemmour",
+    "en": "Tiris Zemmour",
+    "slug": "tiris-zemmour-mr11"
+  },
+  "code": {
+    "id": "MR11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.892",
+    "lon": "-9.587"
+  },
+  "metadata": {},
+  "source": {}
+}

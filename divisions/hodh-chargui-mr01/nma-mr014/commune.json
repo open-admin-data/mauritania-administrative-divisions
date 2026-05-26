@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MR01118",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Achemime",
+      "en": "Achemime",
+      "slug": "achemime"
+    },
+    "code": {
+      "id": "MR01118",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.755",
+      "lon": "-7.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01126",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Agoueinit",
+      "en": "Agoueinit",
+      "slug": "agoueinit"
+    },
+    "code": {
+      "id": "MR01126",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.648",
+      "lon": "-7.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01120",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangou",
+      "en": "Bangou",
+      "slug": "bangou"
+    },
+    "code": {
+      "id": "MR01120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.291",
+      "lon": "-6.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01124",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beribavat",
+      "en": "Beribavat",
+      "slug": "beribavat"
+    },
+    "code": {
+      "id": "MR01124",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.436",
+      "lon": "-7.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01123",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mabrouk 2",
+      "en": "El Mabrouk 2",
+      "slug": "el-mabrouk-2"
+    },
+    "code": {
+      "id": "MR01123",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.468",
+      "lon": "-7.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01121",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Etile",
+      "en": "Hassi Etile",
+      "slug": "hassi-etile"
+    },
+    "code": {
+      "id": "MR01121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.172",
+      "lon": "-7.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01119",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jreif",
+      "en": "Jreif",
+      "slug": "jreif"
+    },
+    "code": {
+      "id": "MR01119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.428",
+      "lon": "-7.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01117",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "NÃ©ma",
+      "en": "NÃ©ma",
+      "slug": "nma"
+    },
+    "code": {
+      "id": "MR01117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.613",
+      "lon": "-7.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01125",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Noual",
+      "en": "Noual",
+      "slug": "noual"
+    },
+    "code": {
+      "id": "MR01125",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.512",
+      "lon": "-7.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01122",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Avnadech",
+      "en": "Oum Avnadech",
+      "slug": "oum-avnadech"
+    },
+    "code": {
+      "id": "MR01122",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR014",
+      "level": 2,
+      "name": {
+        "local": "Néma",
+        "en": "Néma",
+        "slug": "nma-mr014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR014",
+        "level": 2,
+        "name": {
+          "local": "Néma",
+          "en": "Néma",
+          "slug": "nma-mr014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.08",
+      "lon": "-7.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

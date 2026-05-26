@@ -1,0 +1,30 @@
+{
+  "id": "MR01",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Hodh Chargui",
+    "en": "Hodh Chargui",
+    "slug": "hodh-chargui-mr01"
+  },
+  "code": {
+    "id": "MR01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 8,
+    "commune": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.653",
+    "lon": "-7.132"
+  },
+  "metadata": {},
+  "source": {}
+}

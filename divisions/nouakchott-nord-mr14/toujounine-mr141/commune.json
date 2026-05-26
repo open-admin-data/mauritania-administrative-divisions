@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01333",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Teyaret",
+      "en": "Teyaret",
+      "slug": "teyaret"
+    },
+    "code": {
+      "id": "MR01333",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR141",
+      "level": 2,
+      "name": {
+        "local": "Toujounine",
+        "en": "Toujounine",
+        "slug": "toujounine-mr141"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR14",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Nord",
+          "en": "Nouakchott Nord",
+          "slug": "nouakchott-nord-mr14"
+        }
+      },
+      {
+        "id": "MR141",
+        "level": 2,
+        "name": {
+          "local": "Toujounine",
+          "en": "Toujounine",
+          "slug": "toujounine-mr141"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.171",
+      "lon": "-15.929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

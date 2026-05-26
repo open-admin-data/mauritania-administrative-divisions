@@ -1,0 +1,150 @@
+# Hodh El Gharbi — Mauritania Administrative Divisions
+
+> 5 moughataas, 29 communes
+> Code: MR02
+> Coordinates: 16.57, -9.734
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Aïoun
+
+Code: MR021, Coordinates: 16.727, -9.272
+Communes: 7
+
+#### AÃ¯oun El Atrouss
+
+Code: MR01138, Coordinates: 16.693, -9.639
+
+#### Beneamane
+
+Code: MR01142, Coordinates: 16.404, -9.585
+
+#### Doueirare
+
+Code: MR01140, Coordinates: 16.701, -9.88
+
+#### Egjert
+
+Code: MR01143, Coordinates: 17.053, -9.287
+
+#### N&#39;Savenni
+
+Code: MR01139, Coordinates: 17.044, -9.719
+
+#### Oum Lahyadh
+
+Code: MR01144, Coordinates: 16.846, -8.744
+
+#### Ten Hamadi
+
+Code: MR01141, Coordinates: 16.433, -9.844
+
+### Kobeni
+
+Code: MR022, Coordinates: 15.902, -9.452
+Communes: 7
+
+#### Gougui Zemmal
+
+Code: MR01149, Coordinates: 15.791, -9.271
+
+#### Hassi Ehel Ahmed Bechne
+
+Code: MR01146, Coordinates: 15.985, -9.704
+
+#### Koubenni
+
+Code: MR01145, Coordinates: 15.808, -9.408
+
+#### Leghlig
+
+Code: MR01148, Coordinates: 15.779, -9.031
+
+#### Modibougou
+
+Code: MR01150, Coordinates: 15.664, -9.526
+
+#### Timzine
+
+Code: MR01147, Coordinates: 16.209, -9.247
+
+#### Voullaniya
+
+Code: MR01151, Coordinates: 15.602, -9.784
+
+### Tamchekett
+
+Code: MR023, Coordinates: 17.117, -10.443
+Communes: 5
+
+#### El Mabrouk 3
+
+Code: MR01153, Coordinates: 17.406, -10.39
+
+#### Guetae-Teidoume
+
+Code: MR01155, Coordinates: 16.732, -10.728
+
+#### Radhi
+
+Code: MR01154, Coordinates: 16.722, -10.272
+
+#### Sava
+
+Code: MR01156, Coordinates: 17.045, -10.652
+
+#### Tamchekett
+
+Code: MR01152, Coordinates: 17.23, -10.66
+
+### Tintane
+
+Code: MR024, Coordinates: 16.11, -10.345
+Communes: 6
+
+#### AÃ¯n Varbe
+
+Code: MR01160, Coordinates: 15.861, -10.433
+
+#### Aweinat Thalle
+
+Code: MR01159, Coordinates: 15.938, -10.075
+
+#### Dev-a
+
+Code: MR01162, Coordinates: 16.417, -10.537
+
+#### Egharghar
+
+Code: MR01161, Coordinates: 16.186, -10.46
+
+#### Hassi Abdallah
+
+Code: MR01158, Coordinates: 16.312, -10.045
+
+#### Tintan
+
+Code: MR01157, Coordinates: 16.401, -10.183
+
+### Touil
+
+Code: MR025, Coordinates: 15.556, -10.254
+Communes: 4
+
+#### Baghdad
+
+Code: MR01164, Coordinates: 15.598, -10.497
+
+#### Lehreijat
+
+Code: MR01166, Coordinates: 15.598, -10.298
+
+#### Sett
+
+Code: MR01165, Coordinates: 15.579, -10.006
+
+#### Touil 2
+
+Code: MR01163, Coordinates: 15.602, -10.175
+

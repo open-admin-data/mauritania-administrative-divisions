@@ -1,0 +1,30 @@
+{
+  "id": "MR14",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Nouakchott Nord",
+    "en": "Nouakchott Nord",
+    "slug": "nouakchott-nord-mr14"
+  },
+  "code": {
+    "id": "MR14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.102",
+    "lon": "-15.895"
+  },
+  "metadata": {},
+  "source": {}
+}

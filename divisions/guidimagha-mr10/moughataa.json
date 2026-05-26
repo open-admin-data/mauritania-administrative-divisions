@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MR103",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Ghabou",
+      "en": "Ghabou",
+      "slug": "ghabou-mr103"
+    },
+    "code": {
+      "id": "MR103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR10",
+      "level": 1,
+      "name": {
+        "local": "Guidimagha",
+        "en": "Guidimagha",
+        "slug": "guidimagha-mr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.029",
+      "lon": "-12.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR101",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Ould Yengé",
+      "en": "Ould Yengé",
+      "slug": "ould-yeng-mr101"
+    },
+    "code": {
+      "id": "MR101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR10",
+      "level": 1,
+      "name": {
+        "local": "Guidimagha",
+        "en": "Guidimagha",
+        "slug": "guidimagha-mr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.624",
+      "lon": "-11.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR102",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Sélibaby",
+      "en": "Sélibaby",
+      "slug": "slibaby-mr102"
+    },
+    "code": {
+      "id": "MR102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR10",
+      "level": 1,
+      "name": {
+        "local": "Guidimagha",
+        "en": "Guidimagha",
+        "slug": "guidimagha-mr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.483",
+      "lon": "-12.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR104",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Wompou",
+      "en": "Wompou",
+      "slug": "wompou-mr104"
+    },
+    "code": {
+      "id": "MR104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR10",
+      "level": 1,
+      "name": {
+        "local": "Guidimagha",
+        "en": "Guidimagha",
+        "slug": "guidimagha-mr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.366",
+      "lon": "-12.476"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

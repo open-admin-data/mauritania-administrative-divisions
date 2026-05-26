@@ -1,0 +1,47 @@
+{
+  "id": "MR012",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Bassiknou",
+    "en": "Bassiknou",
+    "slug": "bassiknou-mr012"
+  },
+  "code": {
+    "id": "MR012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR01",
+    "level": 1,
+    "name": {
+      "local": "Hodh Chargui",
+      "en": "Hodh Chargui",
+      "slug": "hodh-chargui-mr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.171",
+    "lon": "-6.086"
+  },
+  "metadata": {},
+  "source": {}
+}

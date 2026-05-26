@@ -1,0 +1,47 @@
+{
+  "id": "MR014",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Néma",
+    "en": "Néma",
+    "slug": "nma-mr014"
+  },
+  "code": {
+    "id": "MR014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR01",
+    "level": 1,
+    "name": {
+      "local": "Hodh Chargui",
+      "en": "Hodh Chargui",
+      "slug": "hodh-chargui-mr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.36",
+    "lon": "-7.333"
+  },
+  "metadata": {},
+  "source": {}
+}

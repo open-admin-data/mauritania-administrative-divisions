@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MR031",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Barkéol",
+      "en": "Barkéol",
+      "slug": "barkol-mr031"
+    },
+    "code": {
+      "id": "MR031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.642",
+      "lon": "-12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR032",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Boumdeid",
+      "en": "Boumdeid",
+      "slug": "boumdeid-mr032"
+    },
+    "code": {
+      "id": "MR032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.744",
+      "lon": "-11.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR033",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Guerou",
+      "en": "Guerou",
+      "slug": "guerou-mr033"
+    },
+    "code": {
+      "id": "MR033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.876",
+      "lon": "-11.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR034",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Kankoussa",
+      "en": "Kankoussa",
+      "slug": "kankoussa-mr034"
+    },
+    "code": {
+      "id": "MR034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.713",
+      "lon": "-11.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR035",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Kiffa",
+      "en": "Kiffa",
+      "slug": "kiffa-mr035"
+    },
+    "code": {
+      "id": "MR035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.69",
+      "lon": "-11.323"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

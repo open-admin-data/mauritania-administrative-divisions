@@ -1,0 +1,197 @@
+# Hodh Chargui — Mauritania Administrative Divisions
+
+> 8 moughataas, 37 communes
+> Code: MR01
+> Coordinates: 18.653, -7.132
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Adel Bagrou
+
+Code: MR018, Coordinates: 15.809, -6.653
+Communes: 3
+
+#### Adel Bagrou
+
+Code: MR01135, Coordinates: 15.543, -7.009
+
+#### Elmessgoul
+
+Code: MR01136, Coordinates: 15.874, -6.474
+
+#### Sivane
+
+Code: MR01137, Coordinates: 15.84, -6.882
+
+### Amourj
+
+Code: MR011, Coordinates: 15.84, -7.392
+Communes: 5
+
+#### Amourj
+
+Code: MR01101, Coordinates: 16.081, -7.234
+
+#### Bougadoum
+
+Code: MR01103, Coordinates: 15.835, -7.23
+
+#### Djigui
+
+Code: MR01104, Coordinates: 15.672, -7.2
+
+#### Legdour
+
+Code: MR01105, Coordinates: 15.866, -7.539
+
+#### Oum Echeich
+
+Code: MR01102, Coordinates: 15.677, -7.554
+
+### Bassiknou
+
+Code: MR012, Coordinates: 16.171, -6.086
+Communes: 4
+
+#### Basseknou
+
+Code: MR01106, Coordinates: 15.863, -5.945
+
+#### Dhar
+
+Code: MR01109, Coordinates: 16.171, -6.279
+
+#### El Megve
+
+Code: MR01107, Coordinates: 16.162, -5.563
+
+#### Vessale
+
+Code: MR01108, Coordinates: 15.669, -5.855
+
+### Djiguenni
+
+Code: MR013, Coordinates: 16.019, -8.785
+Communes: 7
+
+#### Aoueinat Ez Bel
+
+Code: MR01114, Coordinates: 16.338, -8.763
+
+#### Beneamane
+
+Code: MR01113, Coordinates: 15.923, -8.847
+
+#### Djiguenni
+
+Code: MR01110, Coordinates: 15.736, -8.667
+
+#### El Mabrouk 1
+
+Code: MR01111, Coordinates: 15.671, -8.501
+
+#### Feirenni
+
+Code: MR01112, Coordinates: 15.566, -8.837
+
+#### Ghlig Ehel Beye
+
+Code: MR01115, Coordinates: 15.964, -8.602
+
+#### Kasr El Barke
+
+Code: MR01116, Coordinates: 15.729, -8.829
+
+### N&#39;Beiket Lehwach
+
+Code: MR017, Coordinates: 18.549, -6.107
+Communes: 1
+
+#### Nbeikett Lehwache
+
+Code: MR01134, Coordinates: 18.131, -6.149
+
+### Néma
+
+Code: MR014, Coordinates: 16.36, -7.333
+Communes: 10
+
+#### Achemime
+
+Code: MR01118, Coordinates: 16.755, -7.128
+
+#### Agoueinit
+
+Code: MR01126, Coordinates: 16.648, -7.453
+
+#### Bangou
+
+Code: MR01120, Coordinates: 16.291, -6.983
+
+#### Beribavat
+
+Code: MR01124, Coordinates: 16.436, -7.572
+
+#### El Mabrouk 2
+
+Code: MR01123, Coordinates: 16.468, -7.339
+
+#### Hassi Etile
+
+Code: MR01121, Coordinates: 16.172, -7.276
+
+#### Jreif
+
+Code: MR01119, Coordinates: 16.428, -7.171
+
+#### NÃ©ma
+
+Code: MR01117, Coordinates: 16.613, -7.267
+
+#### Noual
+
+Code: MR01125, Coordinates: 16.512, -7.751
+
+#### Oum Avnadech
+
+Code: MR01122, Coordinates: 16.08, -7.606
+
+### Oualata
+
+Code: MR015, Coordinates: 19.887, -6.924
+Communes: 2
+
+#### Elbatene
+
+Code: MR01128, Coordinates: 17.177, -7.748
+
+#### Oualata
+
+Code: MR01127, Coordinates: 20.092, -6.877
+
+### Timbédra
+
+Code: MR016, Coordinates: 16.218, -8.216
+Communes: 5
+
+#### Bousteile
+
+Code: MR01132, Coordinates: 15.619, -8.161
+
+#### Hassi M&#39;Hadi
+
+Code: MR01133, Coordinates: 15.991, -8.315
+
+#### Koumbi Saleh
+
+Code: MR01131, Coordinates: 15.895, -7.967
+
+#### Tembedgha
+
+Code: MR01129, Coordinates: 16.24, -8.164
+
+#### Touil 1
+
+Code: MR01130, Coordinates: 16.579, -8.293
+

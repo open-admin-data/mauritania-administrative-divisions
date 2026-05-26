@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01227",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghchourguit",
+      "en": "Aghchourguit",
+      "slug": "aghchourguit"
+    },
+    "code": {
+      "id": "MR01227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR051",
+      "level": 2,
+      "name": {
+        "local": "Aleg",
+        "en": "Aleg",
+        "slug": "aleg-mr051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR051",
+        "level": 2,
+        "name": {
+          "local": "Aleg",
+          "en": "Aleg",
+          "slug": "aleg-mr051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.457",
+      "lon": "-13.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01224",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aleg",
+      "en": "Aleg",
+      "slug": "aleg"
+    },
+    "code": {
+      "id": "MR01224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR051",
+      "level": 2,
+      "name": {
+        "local": "Aleg",
+        "en": "Aleg",
+        "slug": "aleg-mr051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR051",
+        "level": 2,
+        "name": {
+          "local": "Aleg",
+          "en": "Aleg",
+          "slug": "aleg-mr051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-13.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01226",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhdida",
+      "en": "Bouhdida",
+      "slug": "bouhdida"
+    },
+    "code": {
+      "id": "MR01226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR051",
+      "level": 2,
+      "name": {
+        "local": "Aleg",
+        "en": "Aleg",
+        "slug": "aleg-mr051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR051",
+        "level": 2,
+        "name": {
+          "local": "Aleg",
+          "en": "Aleg",
+          "slug": "aleg-mr051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.908",
+      "lon": "-14.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01225",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chegar",
+      "en": "Chegar",
+      "slug": "chegar"
+    },
+    "code": {
+      "id": "MR01225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR051",
+      "level": 2,
+      "name": {
+        "local": "Aleg",
+        "en": "Aleg",
+        "slug": "aleg-mr051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR051",
+        "level": 2,
+        "name": {
+          "local": "Aleg",
+          "en": "Aleg",
+          "slug": "aleg-mr051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.415",
+      "lon": "-13.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01242",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bagodine",
+      "en": "Bagodine",
+      "slug": "bagodine"
+    },
+    "code": {
+      "id": "MR01242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR055",
+      "level": 2,
+      "name": {
+        "local": "M'Bagne",
+        "en": "M'Bagne",
+        "slug": "mbagne-mr055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR055",
+        "level": 2,
+        "name": {
+          "local": "M'Bagne",
+          "en": "M'Bagne",
+          "slug": "mbagne-mr055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.227",
+      "lon": "-13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01241",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Edebaye El Hejjaj",
+      "en": "Edebaye El Hejjaj",
+      "slug": "edebaye-el-hejjaj"
+    },
+    "code": {
+      "id": "MR01241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR055",
+      "level": 2,
+      "name": {
+        "local": "M'Bagne",
+        "en": "M'Bagne",
+        "slug": "mbagne-mr055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR055",
+        "level": 2,
+        "name": {
+          "local": "M'Bagne",
+          "en": "M'Bagne",
+          "slug": "mbagne-mr055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.36",
+      "lon": "-13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01239",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Bagne",
+      "en": "M'Bagne",
+      "slug": "mbagne"
+    },
+    "code": {
+      "id": "MR01239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR055",
+      "level": 2,
+      "name": {
+        "local": "M'Bagne",
+        "en": "M'Bagne",
+        "slug": "mbagne-mr055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR055",
+        "level": 2,
+        "name": {
+          "local": "M'Bagne",
+          "en": "M'Bagne",
+          "slug": "mbagne-mr055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.157",
+      "lon": "-13.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01240",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niabina",
+      "en": "Niabina",
+      "slug": "niabina"
+    },
+    "code": {
+      "id": "MR01240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR055",
+      "level": 2,
+      "name": {
+        "local": "M'Bagne",
+        "en": "M'Bagne",
+        "slug": "mbagne-mr055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR055",
+        "level": 2,
+        "name": {
+          "local": "M'Bagne",
+          "en": "M'Bagne",
+          "slug": "mbagne-mr055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.232",
+      "lon": "-13.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

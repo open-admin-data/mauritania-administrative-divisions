@@ -1,0 +1,73 @@
+# Adrar — Mauritania Administrative Divisions
+
+> 4 moughataas, 11 communes
+> Code: MR07
+> Coordinates: 21.434, -9.561
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Aoujeft
+
+Code: MR071, Coordinates: 19.555, -13.216
+Communes: 4
+
+#### Aoujeft
+
+Code: MR01275, Coordinates: 20.009, -13.049
+
+#### El Medah
+
+Code: MR01278, Coordinates: 19.5, -13.735
+
+#### Maeden
+
+Code: MR01276, Coordinates: 20.195, -13.028
+
+#### N&#39;Teirguent
+
+Code: MR01277, Coordinates: 19.095, -12.676
+
+### Atar
+
+Code: MR072, Coordinates: 20.625, -13.433
+Communes: 4
+
+#### AÃ¯n Ehel Taya
+
+Code: MR01280, Coordinates: 20.208, -13.646
+
+#### Atar
+
+Code: MR01279, Coordinates: 20.503, -13.042
+
+#### Choum
+
+Code: MR01282, Coordinates: 21.365, -12.708
+
+#### Tawaz
+
+Code: MR01281, Coordinates: 20.797, -13.297
+
+### Chinguitti
+
+Code: MR073, Coordinates: 20.157, -10.245
+Communes: 2
+
+#### AÃ¯n Savra
+
+Code: MR01284, Coordinates: 19.612, -11.968
+
+#### Chinguitti
+
+Code: MR01283, Coordinates: 20.177, -10.245
+
+### Ouadane
+
+Code: MR074, Coordinates: 22.36, -8.13
+Communes: 1
+
+#### Ouadane
+
+Code: MR01285, Coordinates: 22.348, -8.142
+

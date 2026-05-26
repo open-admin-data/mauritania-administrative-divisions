@@ -1,0 +1,31 @@
+# Inchiri — Mauritania Administrative Divisions
+
+> 2 moughataas, 3 communes
+> Code: MR12
+> Coordinates: 19.69, -14.805
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Akjoujt
+
+Code: MR121, Coordinates: 19.906, -14.241
+Communes: 1
+
+#### Akjoujt
+
+Code: MR01327, Coordinates: 19.906, -14.241
+
+### Bennechab
+
+Code: MR122, Coordinates: 19.55, -15.153
+Communes: 2
+
+#### Bennechab
+
+Code: MR01328, Coordinates: 19.84, -15.004
+
+#### Mheijrat
+
+Code: MR01329, Coordinates: 18.81, -15.838
+

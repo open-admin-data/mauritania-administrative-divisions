@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01312",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Chegar",
+      "en": "Hassi Chegar",
+      "slug": "hassi-chegar"
+    },
+    "code": {
+      "id": "MR01312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR102",
+      "level": 2,
+      "name": {
+        "local": "Sélibaby",
+        "en": "Sélibaby",
+        "slug": "slibaby-mr102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR102",
+        "level": 2,
+        "name": {
+          "local": "Sélibaby",
+          "en": "Sélibaby",
+          "slug": "slibaby-mr102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.337",
+      "lon": "-12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01310",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ould M'Bonny",
+      "en": "Ould M'Bonny",
+      "slug": "ould-mbonny"
+    },
+    "code": {
+      "id": "MR01310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR102",
+      "level": 2,
+      "name": {
+        "local": "Sélibaby",
+        "en": "Sélibaby",
+        "slug": "slibaby-mr102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR102",
+        "level": 2,
+        "name": {
+          "local": "Sélibaby",
+          "en": "Sélibaby",
+          "slug": "slibaby-mr102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.723",
+      "lon": "-12.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01309",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "SÃ©libabi",
+      "en": "SÃ©libabi",
+      "slug": "slibabi"
+    },
+    "code": {
+      "id": "MR01309",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR102",
+      "level": 2,
+      "name": {
+        "local": "Sélibaby",
+        "en": "Sélibaby",
+        "slug": "slibaby-mr102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR102",
+        "level": 2,
+        "name": {
+          "local": "Sélibaby",
+          "en": "Sélibaby",
+          "slug": "slibaby-mr102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.159",
+      "lon": "-12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01311",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tachout",
+      "en": "Tachout",
+      "slug": "tachout"
+    },
+    "code": {
+      "id": "MR01311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR102",
+      "level": 2,
+      "name": {
+        "local": "Sélibaby",
+        "en": "Sélibaby",
+        "slug": "slibaby-mr102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR102",
+        "level": 2,
+        "name": {
+          "local": "Sélibaby",
+          "en": "Sélibaby",
+          "slug": "slibaby-mr102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.448",
+      "lon": "-12.181"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

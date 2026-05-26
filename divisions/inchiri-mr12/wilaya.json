@@ -1,0 +1,30 @@
+{
+  "id": "MR12",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Inchiri",
+    "en": "Inchiri",
+    "slug": "inchiri-mr12"
+  },
+  "code": {
+    "id": "MR12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.69",
+    "lon": "-14.805"
+  },
+  "metadata": {},
+  "source": {}
+}

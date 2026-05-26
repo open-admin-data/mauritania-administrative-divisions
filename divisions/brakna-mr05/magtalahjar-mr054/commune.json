@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01237",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djonabe",
+      "en": "Djonabe",
+      "slug": "djonabe"
+    },
+    "code": {
+      "id": "MR01237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR054",
+      "level": 2,
+      "name": {
+        "local": "Magtalahjar",
+        "en": "Magtalahjar",
+        "slug": "magtalahjar-mr054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR054",
+        "level": 2,
+        "name": {
+          "local": "Magtalahjar",
+          "en": "Magtalahjar",
+          "slug": "magtalahjar-mr054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.137",
+      "lon": "-12.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01235",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Magtalahjar",
+      "en": "Magtalahjar",
+      "slug": "magtalahjar"
+    },
+    "code": {
+      "id": "MR01235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR054",
+      "level": 2,
+      "name": {
+        "local": "Magtalahjar",
+        "en": "Magtalahjar",
+        "slug": "magtalahjar-mr054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR054",
+        "level": 2,
+        "name": {
+          "local": "Magtalahjar",
+          "en": "Magtalahjar",
+          "slug": "magtalahjar-mr054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.918",
+      "lon": "-13.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01238",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouad Emmour",
+      "en": "Ouad Emmour",
+      "slug": "ouad-emmour"
+    },
+    "code": {
+      "id": "MR01238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR054",
+      "level": 2,
+      "name": {
+        "local": "Magtalahjar",
+        "en": "Magtalahjar",
+        "slug": "magtalahjar-mr054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR054",
+        "level": 2,
+        "name": {
+          "local": "Magtalahjar",
+          "en": "Magtalahjar",
+          "slug": "magtalahjar-mr054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.282",
+      "lon": "-12.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01236",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sangrave",
+      "en": "Sangrave",
+      "slug": "sangrave"
+    },
+    "code": {
+      "id": "MR01236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR054",
+      "level": 2,
+      "name": {
+        "local": "Magtalahjar",
+        "en": "Magtalahjar",
+        "slug": "magtalahjar-mr054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR054",
+        "level": 2,
+        "name": {
+          "local": "Magtalahjar",
+          "en": "Magtalahjar",
+          "slug": "magtalahjar-mr054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.516",
+      "lon": "-12.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

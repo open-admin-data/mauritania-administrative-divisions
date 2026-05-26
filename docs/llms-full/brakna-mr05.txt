@@ -1,0 +1,135 @@
+# Brakna — Mauritania Administrative Divisions
+
+> 6 moughataas, 24 communes
+> Code: MR05
+> Coordinates: 17.293, -13.279
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Aleg
+
+Code: MR051, Coordinates: 17.218, -13.806
+Communes: 4
+
+#### Aghchourguit
+
+Code: MR01227, Coordinates: 17.457, -13.894
+
+#### Aleg
+
+Code: MR01224, Coordinates: 17.043, -13.94
+
+#### Bouhdida
+
+Code: MR01226, Coordinates: 16.908, -14.171
+
+#### Chegar
+
+Code: MR01225, Coordinates: 17.415, -13.542
+
+### Bababé
+
+Code: MR052, Coordinates: 16.457, -13.948
+Communes: 3
+
+#### AÃ©rÃ© M&#39;Bar
+
+Code: MR01230, Coordinates: 16.476, -14.031
+
+#### BababÃ©
+
+Code: MR01228, Coordinates: 16.332, -13.945
+
+#### El Verae
+
+Code: MR01229, Coordinates: 16.434, -13.866
+
+### Boghé
+
+Code: MR053, Coordinates: 16.652, -14.375
+Communes: 4
+
+#### BoghÃ©
+
+Code: MR01231, Coordinates: 16.6, -14.216
+
+#### Dar El Aviye
+
+Code: MR01232, Coordinates: 16.681, -14.363
+
+#### Dar El Barke
+
+Code: MR01233, Coordinates: 16.695, -14.777
+
+#### Ould Biram
+
+Code: MR01234, Coordinates: 16.696, -14.527
+
+### M&#39;Bagne
+
+Code: MR055, Coordinates: 16.273, -13.773
+Communes: 4
+
+#### Bagodine
+
+Code: MR01242, Coordinates: 16.227, -13.7
+
+#### Edebaye El Hejjaj
+
+Code: MR01241, Coordinates: 16.36, -13.767
+
+#### M&#39;Bagne
+
+Code: MR01239, Coordinates: 16.157, -13.781
+
+#### Niabina
+
+Code: MR01240, Coordinates: 16.232, -13.848
+
+### Maal
+
+Code: MR056, Coordinates: 16.804, -13.281
+Communes: 5
+
+#### Bourat
+
+Code: MR01246, Coordinates: 16.652, -13.114
+
+#### Djelwar
+
+Code: MR01247, Coordinates: 16.597, -13.503
+
+#### Elwad Lebiadh
+
+Code: MR01245, Coordinates: 16.87, -12.966
+
+#### Maal
+
+Code: MR01243, Coordinates: 17.066, -13.459
+
+#### Roumed
+
+Code: MR01244, Coordinates: 16.968, -13.174
+
+### Magtalahjar
+
+Code: MR054, Coordinates: 17.65, -13.061
+Communes: 4
+
+#### Djonabe
+
+Code: MR01237, Coordinates: 17.137, -12.691
+
+#### Magtalahjar
+
+Code: MR01235, Coordinates: 17.918, -13.039
+
+#### Ouad Emmour
+
+Code: MR01238, Coordinates: 17.282, -12.972
+
+#### Sangrave
+
+Code: MR01236, Coordinates: 17.516, -12.75
+

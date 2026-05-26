@@ -1,0 +1,47 @@
+{
+  "id": "MR055",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "M'Bagne",
+    "en": "M'Bagne",
+    "slug": "mbagne-mr055"
+  },
+  "code": {
+    "id": "MR055",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR05",
+    "level": 1,
+    "name": {
+      "local": "Brakna",
+      "en": "Brakna",
+      "slug": "brakna-mr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR05",
+      "level": 1,
+      "name": {
+        "local": "Brakna",
+        "en": "Brakna",
+        "slug": "brakna-mr05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.273",
+    "lon": "-13.773"
+  },
+  "metadata": {},
+  "source": {}
+}

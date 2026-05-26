@@ -1,0 +1,47 @@
+{
+  "id": "MR133",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Sebkha",
+    "en": "Sebkha",
+    "slug": "sebkha-mr133"
+  },
+  "code": {
+    "id": "MR133",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR13",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Ouest",
+      "en": "Nouakchott Ouest",
+      "slug": "nouakchott-ouest-mr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR13",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Ouest",
+        "en": "Nouakchott Ouest",
+        "slug": "nouakchott-ouest-mr13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.077",
+    "lon": "-16.008"
+  },
+  "metadata": {},
+  "source": {}
+}

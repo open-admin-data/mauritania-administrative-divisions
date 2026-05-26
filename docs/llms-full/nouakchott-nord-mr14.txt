@@ -1,0 +1,36 @@
+# Nouakchott Nord — Mauritania Administrative Divisions
+
+> 3 moughataas, 3 communes
+> Code: MR14
+> Coordinates: 18.102, -15.895
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Dar Naïm
+
+Code: MR142, Coordinates: 18.122, -15.912
+Communes: 1
+
+#### Dar Naim
+
+Code: MR01334, Coordinates: 18.122, -15.912
+
+### Teyarett
+
+Code: MR143, Coordinates: 18.067, -15.888
+Communes: 1
+
+#### Toujounine
+
+Code: MR01335, Coordinates: 18.067, -15.888
+
+### Toujounine
+
+Code: MR141, Coordinates: 18.171, -15.929
+Communes: 1
+
+#### Teyaret
+
+Code: MR01333, Coordinates: 18.171, -15.929
+

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01334",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar Naim",
+      "en": "Dar Naim",
+      "slug": "dar-naim"
+    },
+    "code": {
+      "id": "MR01334",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR142",
+      "level": 2,
+      "name": {
+        "local": "Dar Naïm",
+        "en": "Dar Naïm",
+        "slug": "dar-nam-mr142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR14",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Nord",
+          "en": "Nouakchott Nord",
+          "slug": "nouakchott-nord-mr14"
+        }
+      },
+      {
+        "id": "MR142",
+        "level": 2,
+        "name": {
+          "local": "Dar Naïm",
+          "en": "Dar Naïm",
+          "slug": "dar-nam-mr142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.122",
+      "lon": "-15.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "MR091",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Moudjeria",
+      "en": "Moudjeria",
+      "slug": "moudjeria-mr091"
+    },
+    "code": {
+      "id": "MR091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR09",
+      "level": 1,
+      "name": {
+        "local": "Tagant",
+        "en": "Tagant",
+        "slug": "tagant-mr09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.988",
+      "lon": "-12.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR092",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Tichit",
+      "en": "Tichit",
+      "slug": "tichit-mr092"
+    },
+    "code": {
+      "id": "MR092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR09",
+      "level": 1,
+      "name": {
+        "local": "Tagant",
+        "en": "Tagant",
+        "slug": "tagant-mr09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.537",
+      "lon": "-9.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR093",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Tidjikja",
+      "en": "Tidjikja",
+      "slug": "tidjikja-mr093"
+    },
+    "code": {
+      "id": "MR093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR09",
+      "level": 1,
+      "name": {
+        "local": "Tagant",
+        "en": "Tagant",
+        "slug": "tagant-mr09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.441",
+      "lon": "-11.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

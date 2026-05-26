@@ -1,0 +1,47 @@
+{
+  "id": "MR044",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Mounguel",
+    "en": "Mounguel",
+    "slug": "mounguel-mr044"
+  },
+  "code": {
+    "id": "MR044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR04",
+    "level": 1,
+    "name": {
+      "local": "Gorgol",
+      "en": "Gorgol",
+      "slug": "gorgol-mr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.487",
+    "lon": "-12.967"
+  },
+  "metadata": {},
+  "source": {}
+}

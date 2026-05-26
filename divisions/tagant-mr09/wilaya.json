@@ -1,0 +1,30 @@
+{
+  "id": "MR09",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Tagant",
+    "en": "Tagant",
+    "slug": "tagant-mr09"
+  },
+  "code": {
+    "id": "MR09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 3,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.434",
+    "lon": "-10.561"
+  },
+  "metadata": {},
+  "source": {}
+}

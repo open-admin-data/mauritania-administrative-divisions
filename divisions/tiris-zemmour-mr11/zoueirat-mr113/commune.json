@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01326",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zoueirat",
+      "en": "Zoueirat",
+      "slug": "zoueirat"
+    },
+    "code": {
+      "id": "MR01326",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR113",
+      "level": 2,
+      "name": {
+        "local": "Zoueirat",
+        "en": "Zoueirat",
+        "slug": "zoueirat-mr113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR11",
+        "level": 1,
+        "name": {
+          "local": "Tiris Zemmour",
+          "en": "Tiris Zemmour",
+          "slug": "tiris-zemmour-mr11"
+        }
+      },
+      {
+        "id": "MR113",
+        "level": 2,
+        "name": {
+          "local": "Zoueirat",
+          "en": "Zoueirat",
+          "slug": "zoueirat-mr113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.726",
+      "lon": "-12.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

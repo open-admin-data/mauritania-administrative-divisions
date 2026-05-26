@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01325",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "F'Deirick",
+      "en": "F'Deirick",
+      "slug": "fdeirick"
+    },
+    "code": {
+      "id": "MR01325",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR112",
+      "level": 2,
+      "name": {
+        "local": "F'Deirick",
+        "en": "F'Deirick",
+        "slug": "fdeirick-mr112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR11",
+        "level": 1,
+        "name": {
+          "local": "Tiris Zemmour",
+          "en": "Tiris Zemmour",
+          "slug": "tiris-zemmour-mr11"
+        }
+      },
+      {
+        "id": "MR112",
+        "level": 2,
+        "name": {
+          "local": "F'Deirick",
+          "en": "F'Deirick",
+          "slug": "fdeirick-mr112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.175",
+      "lon": "-10.521"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

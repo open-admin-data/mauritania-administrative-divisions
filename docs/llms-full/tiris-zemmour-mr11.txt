@@ -1,0 +1,36 @@
+# Tiris Zemmour — Mauritania Administrative Divisions
+
+> 3 moughataas, 3 communes
+> Code: MR11
+> Coordinates: 23.892, -9.587
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Bir Moughrein
+
+Code: MR111, Coordinates: 26.163, -7.695
+Communes: 1
+
+#### Birmoughrein
+
+Code: MR01324, Coordinates: 26.152, -7.684
+
+### F&#39;Deirick
+
+Code: MR112, Coordinates: 23.199, -10.605
+Communes: 1
+
+#### F&#39;Deirick
+
+Code: MR01325, Coordinates: 23.175, -10.521
+
+### Zoueirat
+
+Code: MR113, Coordinates: 22.726, -12.353
+Communes: 1
+
+#### Zoueirat
+
+Code: MR01326, Coordinates: 22.726, -12.353
+

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01135",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adel Bagrou",
+      "en": "Adel Bagrou",
+      "slug": "adel-bagrou"
+    },
+    "code": {
+      "id": "MR01135",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR018",
+      "level": 2,
+      "name": {
+        "local": "Adel Bagrou",
+        "en": "Adel Bagrou",
+        "slug": "adel-bagrou-mr018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR018",
+        "level": 2,
+        "name": {
+          "local": "Adel Bagrou",
+          "en": "Adel Bagrou",
+          "slug": "adel-bagrou-mr018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.543",
+      "lon": "-7.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01136",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Elmessgoul",
+      "en": "Elmessgoul",
+      "slug": "elmessgoul"
+    },
+    "code": {
+      "id": "MR01136",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR018",
+      "level": 2,
+      "name": {
+        "local": "Adel Bagrou",
+        "en": "Adel Bagrou",
+        "slug": "adel-bagrou-mr018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR018",
+        "level": 2,
+        "name": {
+          "local": "Adel Bagrou",
+          "en": "Adel Bagrou",
+          "slug": "adel-bagrou-mr018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.874",
+      "lon": "-6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01137",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sivane",
+      "en": "Sivane",
+      "slug": "sivane"
+    },
+    "code": {
+      "id": "MR01137",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR018",
+      "level": 2,
+      "name": {
+        "local": "Adel Bagrou",
+        "en": "Adel Bagrou",
+        "slug": "adel-bagrou-mr018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR018",
+        "level": 2,
+        "name": {
+          "local": "Adel Bagrou",
+          "en": "Adel Bagrou",
+          "slug": "adel-bagrou-mr018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.84",
+      "lon": "-6.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

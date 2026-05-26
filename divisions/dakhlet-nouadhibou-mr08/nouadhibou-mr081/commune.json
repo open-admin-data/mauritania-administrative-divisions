@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01287",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boulenouar",
+      "en": "Boulenouar",
+      "slug": "boulenouar"
+    },
+    "code": {
+      "id": "MR01287",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR081",
+      "level": 2,
+      "name": {
+        "local": "Nouadhibou",
+        "en": "Nouadhibou",
+        "slug": "nouadhibou-mr081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR081",
+        "level": 2,
+        "name": {
+          "local": "Nouadhibou",
+          "en": "Nouadhibou",
+          "slug": "nouadhibou-mr081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.928",
+      "lon": "-16.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01288",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inal",
+      "en": "Inal",
+      "slug": "inal"
+    },
+    "code": {
+      "id": "MR01288",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR081",
+      "level": 2,
+      "name": {
+        "local": "Nouadhibou",
+        "en": "Nouadhibou",
+        "slug": "nouadhibou-mr081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR081",
+        "level": 2,
+        "name": {
+          "local": "Nouadhibou",
+          "en": "Nouadhibou",
+          "slug": "nouadhibou-mr081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.946",
+      "lon": "-15.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01286",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nouadhibou",
+      "en": "Nouadhibou",
+      "slug": "nouadhibou"
+    },
+    "code": {
+      "id": "MR01286",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR081",
+      "level": 2,
+      "name": {
+        "local": "Nouadhibou",
+        "en": "Nouadhibou",
+        "slug": "nouadhibou-mr081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      },
+      {
+        "id": "MR081",
+        "level": 2,
+        "name": {
+          "local": "Nouadhibou",
+          "en": "Nouadhibou",
+          "slug": "nouadhibou-mr081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.902",
+      "lon": "-17.064"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

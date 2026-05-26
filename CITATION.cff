@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Mauritania Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-26"
+url: "https://github.com/open-admin-data/mauritania-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/mauritania-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - mauritania
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Mauritania's administrative hierarchy:
+  15 wilayas, 63 moughataas, 238 communes.
+  Bilingual with coordinates and postal codes where available.

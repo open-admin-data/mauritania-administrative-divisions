@@ -1,0 +1,30 @@
+{
+  "id": "MR04",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Gorgol",
+    "en": "Gorgol",
+    "slug": "gorgol-mr04"
+  },
+  "code": {
+    "id": "MR04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 5,
+    "commune": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.947",
+    "lon": "-12.676"
+  },
+  "metadata": {},
+  "source": {}
+}

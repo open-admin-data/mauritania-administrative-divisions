@@ -1,0 +1,152 @@
+# Trarza — Mauritania Administrative Divisions
+
+> 7 moughataas, 27 communes
+> Code: MR06
+> Coordinates: 17.517, -15.054
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Boutilimit
+
+Code: MR061, Coordinates: 17.909, -14.328
+Communes: 7
+
+#### Ajoueir
+
+Code: MR01250, Coordinates: 17.206, -14.423
+
+#### Boutilimit
+
+Code: MR01248, Coordinates: 17.54, -14.693
+
+#### El Mouyessar
+
+Code: MR01254, Coordinates: 18.499, -13.887
+
+#### Elb Adress
+
+Code: MR01249, Coordinates: 18.279, -13.42
+
+#### N&#39;Teichet
+
+Code: MR01251, Coordinates: 17.334, -14.701
+
+#### Nebaghiye
+
+Code: MR01252, Coordinates: 17.406, -15.06
+
+#### Tenghadej
+
+Code: MR01253, Coordinates: 18.548, -14.389
+
+### Keur Macen
+
+Code: MR062, Coordinates: 16.528, -16.309
+Communes: 3
+
+#### Keurmacen
+
+Code: MR01255, Coordinates: 16.568, -16.203
+
+#### M&#39;Balal
+
+Code: MR01257, Coordinates: 16.75, -16.237
+
+#### N&#39;Diago
+
+Code: MR01256, Coordinates: 16.333, -16.431
+
+### Mederdra
+
+Code: MR063, Coordinates: 17.12, -15.771
+Communes: 5
+
+#### Beir Taouress
+
+Code: MR01259, Coordinates: 17.092, -15.698
+
+#### El Khat
+
+Code: MR01261, Coordinates: 16.809, -15.83
+
+#### Mederdra
+
+Code: MR01258, Coordinates: 16.936, -15.68
+
+#### Taguilalet
+
+Code: MR01260, Coordinates: 17.23, -15.405
+
+#### Tiguent (El Jedide)
+
+Code: MR01262, Coordinates: 17.268, -15.952
+
+### Ouad Naga
+
+Code: MR064, Coordinates: 18.117, -15.422
+Communes: 3
+
+#### Aouleiygat
+
+Code: MR01264, Coordinates: 18.203, -15.408
+
+#### El Ariye
+
+Code: MR01265, Coordinates: 17.664, -15.883
+
+#### Ouad Naga
+
+Code: MR01263, Coordinates: 17.947, -15.512
+
+### R&#39;Kiz
+
+Code: MR065, Coordinates: 17.107, -14.997
+Communes: 3
+
+#### Bareine
+
+Code: MR01268, Coordinates: 17.154, -15.189
+
+#### Boutalhaye
+
+Code: MR01267, Coordinates: 17.053, -14.926
+
+#### R&#39;Kiz
+
+Code: MR01266, Coordinates: 16.917, -15.209
+
+### Rosso
+
+Code: MR066, Coordinates: 16.654, -15.698
+Communes: 2
+
+#### Jedrel Mouhguen
+
+Code: MR01270, Coordinates: 16.676, -15.604
+
+#### Rosso
+
+Code: MR01269, Coordinates: 16.582, -15.814
+
+### Tekane
+
+Code: MR067, Coordinates: 16.742, -15.17
+Communes: 4
+
+#### Chemame
+
+Code: MR01272, Coordinates: 16.765, -15.266
+
+#### Lexelbe 2
+
+Code: MR01274, Coordinates: 16.782, -14.989
+
+#### Teichteyat
+
+Code: MR01273, Coordinates: 16.805, -15.403
+
+#### Teikane
+
+Code: MR01271, Coordinates: 16.599, -15.275
+

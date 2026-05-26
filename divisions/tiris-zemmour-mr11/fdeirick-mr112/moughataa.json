@@ -1,0 +1,47 @@
+{
+  "id": "MR112",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "F'Deirick",
+    "en": "F'Deirick",
+    "slug": "fdeirick-mr112"
+  },
+  "code": {
+    "id": "MR112",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR11",
+    "level": 1,
+    "name": {
+      "local": "Tiris Zemmour",
+      "en": "Tiris Zemmour",
+      "slug": "tiris-zemmour-mr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR11",
+      "level": 1,
+      "name": {
+        "local": "Tiris Zemmour",
+        "en": "Tiris Zemmour",
+        "slug": "tiris-zemmour-mr11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.199",
+    "lon": "-10.605"
+  },
+  "metadata": {},
+  "source": {}
+}

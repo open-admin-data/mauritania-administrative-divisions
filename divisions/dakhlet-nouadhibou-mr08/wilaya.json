@@ -1,0 +1,30 @@
+{
+  "id": "MR08",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Dakhlet Nouadhibou",
+    "en": "Dakhlet Nouadhibou",
+    "slug": "dakhlet-nouadhibou-mr08"
+  },
+  "code": {
+    "id": "MR08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 2,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.168",
+    "lon": "-15.892"
+  },
+  "metadata": {},
+  "source": {}
+}

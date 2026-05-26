@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MR01212",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chelkhet Tiyab",
+      "en": "Chelkhet Tiyab",
+      "slug": "chelkhet-tiyab"
+    },
+    "code": {
+      "id": "MR01212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.329",
+      "lon": "-12.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01210",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Edebaye Ehel Guelaye",
+      "en": "Edebaye Ehel Guelaye",
+      "slug": "edebaye-ehel-guelaye"
+    },
+    "code": {
+      "id": "MR01210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.763",
+      "lon": "-12.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01213",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lahrach",
+      "en": "Lahrach",
+      "slug": "lahrach"
+    },
+    "code": {
+      "id": "MR01213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.286",
+      "lon": "-12.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01206",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Boud",
+      "en": "M'Boud",
+      "slug": "mboud"
+    },
+    "code": {
+      "id": "MR01206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.025",
+      "lon": "-12.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01209",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Djadjbenni GandÃ©ga",
+      "en": "N'Djadjbenni GandÃ©ga",
+      "slug": "ndjadjbenni-gandga"
+    },
+    "code": {
+      "id": "MR01209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.803",
+      "lon": "-12.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01214",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souve",
+      "en": "Souve",
+      "slug": "souve"
+    },
+    "code": {
+      "id": "MR01214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.993",
+      "lon": "-12.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01208",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terenguel Ehel Moulaye Ely",
+      "en": "Terenguel Ehel Moulaye Ely",
+      "slug": "terenguel-ehel-moulaye-ely"
+    },
+    "code": {
+      "id": "MR01208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.867",
+      "lon": "-12.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01207",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tikobra",
+      "en": "Tikobra",
+      "slug": "tikobra"
+    },
+    "code": {
+      "id": "MR01207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.143",
+      "lon": "-12.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01211",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Voum Legleite",
+      "en": "Voum Legleite",
+      "slug": "voum-legleite"
+    },
+    "code": {
+      "id": "MR01211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR043",
+      "level": 2,
+      "name": {
+        "local": "M'Bout",
+        "en": "M'Bout",
+        "slug": "mbout-mr043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR043",
+        "level": 2,
+        "name": {
+          "local": "M'Bout",
+          "en": "M'Bout",
+          "slug": "mbout-mr043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.043",
+      "lon": "-12.705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

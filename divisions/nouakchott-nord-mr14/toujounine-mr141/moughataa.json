@@ -1,0 +1,47 @@
+{
+  "id": "MR141",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Toujounine",
+    "en": "Toujounine",
+    "slug": "toujounine-mr141"
+  },
+  "code": {
+    "id": "MR141",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR14",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Nord",
+      "en": "Nouakchott Nord",
+      "slug": "nouakchott-nord-mr14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR14",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Nord",
+        "en": "Nouakchott Nord",
+        "slug": "nouakchott-nord-mr14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.171",
+    "lon": "-15.929"
+  },
+  "metadata": {},
+  "source": {}
+}

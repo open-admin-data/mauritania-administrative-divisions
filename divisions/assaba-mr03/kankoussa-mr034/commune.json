@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01184",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Blajmil",
+      "en": "Blajmil",
+      "slug": "blajmil"
+    },
+    "code": {
+      "id": "MR01184",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR034",
+      "level": 2,
+      "name": {
+        "local": "Kankoussa",
+        "en": "Kankoussa",
+        "slug": "kankoussa-mr034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR034",
+        "level": 2,
+        "name": {
+          "local": "Kankoussa",
+          "en": "Kankoussa",
+          "slug": "kankoussa-mr034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.04",
+      "lon": "-11.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01186",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamed",
+      "en": "Hamed",
+      "slug": "hamed"
+    },
+    "code": {
+      "id": "MR01186",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR034",
+      "level": 2,
+      "name": {
+        "local": "Kankoussa",
+        "en": "Kankoussa",
+        "slug": "kankoussa-mr034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR034",
+        "level": 2,
+        "name": {
+          "local": "Kankoussa",
+          "en": "Kankoussa",
+          "slug": "kankoussa-mr034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.574",
+      "lon": "-11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01182",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kankoussa",
+      "en": "Kankoussa",
+      "slug": "kankoussa"
+    },
+    "code": {
+      "id": "MR01182",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR034",
+      "level": 2,
+      "name": {
+        "local": "Kankoussa",
+        "en": "Kankoussa",
+        "slug": "kankoussa-mr034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR034",
+        "level": 2,
+        "name": {
+          "local": "Kankoussa",
+          "en": "Kankoussa",
+          "slug": "kankoussa-mr034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.881",
+      "lon": "-11.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01183",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sani",
+      "en": "Sani",
+      "slug": "sani"
+    },
+    "code": {
+      "id": "MR01183",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR034",
+      "level": 2,
+      "name": {
+        "local": "Kankoussa",
+        "en": "Kankoussa",
+        "slug": "kankoussa-mr034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR034",
+        "level": 2,
+        "name": {
+          "local": "Kankoussa",
+          "en": "Kankoussa",
+          "slug": "kankoussa-mr034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.106",
+      "lon": "-11.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01185",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tenaha",
+      "en": "Tenaha",
+      "slug": "tenaha"
+    },
+    "code": {
+      "id": "MR01185",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR034",
+      "level": 2,
+      "name": {
+        "local": "Kankoussa",
+        "en": "Kankoussa",
+        "slug": "kankoussa-mr034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR034",
+        "level": 2,
+        "name": {
+          "local": "Kankoussa",
+          "en": "Kankoussa",
+          "slug": "kankoussa-mr034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.47",
+      "lon": "-10.844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

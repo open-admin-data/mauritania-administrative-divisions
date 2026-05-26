@@ -1,0 +1,47 @@
+{
+  "id": "MR034",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Kankoussa",
+    "en": "Kankoussa",
+    "slug": "kankoussa-mr034"
+  },
+  "code": {
+    "id": "MR034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR03",
+    "level": 1,
+    "name": {
+      "local": "Assaba",
+      "en": "Assaba",
+      "slug": "assaba-mr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.713",
+    "lon": "-11.146"
+  },
+  "metadata": {},
+  "source": {}
+}

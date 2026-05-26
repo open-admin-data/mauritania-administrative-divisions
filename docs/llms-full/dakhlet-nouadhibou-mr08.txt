@@ -1,0 +1,43 @@
+# Dakhlet Nouadhibou — Mauritania Administrative Divisions
+
+> 2 moughataas, 6 communes
+> Code: MR08
+> Coordinates: 20.168, -15.892
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Chami
+
+Code: MR082, Coordinates: 20.168, -15.892
+Communes: 3
+
+#### Chami
+
+Code: MR01289, Coordinates: 20.352, -15.92
+
+#### Nouamghar
+
+Code: MR01291, Coordinates: 19.504, -15.992
+
+#### Tmeimichat
+
+Code: MR01290, Coordinates: 20.833, -14.779
+
+### Nouadhibou
+
+Code: MR081, Coordinates: 20.924, -15.949
+Communes: 3
+
+#### Boulenouar
+
+Code: MR01287, Coordinates: 20.928, -16.168
+
+#### Inal
+
+Code: MR01288, Coordinates: 20.946, -15.313
+
+#### Nouadhibou
+
+Code: MR01286, Coordinates: 20.902, -17.064
+

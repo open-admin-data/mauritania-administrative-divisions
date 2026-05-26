@@ -1,0 +1,47 @@
+{
+  "id": "MR152",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Arafat",
+    "en": "Arafat",
+    "slug": "arafat-mr152"
+  },
+  "code": {
+    "id": "MR152",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR15",
+    "level": 1,
+    "name": {
+      "local": "Nouakchott Sud",
+      "en": "Nouakchott Sud",
+      "slug": "nouakchott-sud-mr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR15",
+      "level": 1,
+      "name": {
+        "local": "Nouakchott Sud",
+        "en": "Nouakchott Sud",
+        "slug": "nouakchott-sud-mr15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.054",
+    "lon": "-15.959"
+  },
+  "metadata": {},
+  "source": {}
+}

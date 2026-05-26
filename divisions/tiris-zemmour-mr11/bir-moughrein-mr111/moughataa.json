@@ -1,0 +1,47 @@
+{
+  "id": "MR111",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Bir Moughrein",
+    "en": "Bir Moughrein",
+    "slug": "bir-moughrein-mr111"
+  },
+  "code": {
+    "id": "MR111",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR11",
+    "level": 1,
+    "name": {
+      "local": "Tiris Zemmour",
+      "en": "Tiris Zemmour",
+      "slug": "tiris-zemmour-mr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR11",
+      "level": 1,
+      "name": {
+        "local": "Tiris Zemmour",
+        "en": "Tiris Zemmour",
+        "slug": "tiris-zemmour-mr11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.163",
+    "lon": "-7.695"
+  },
+  "metadata": {},
+  "source": {}
+}

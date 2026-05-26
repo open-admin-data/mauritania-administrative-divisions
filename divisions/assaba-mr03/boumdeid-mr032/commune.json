@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01175",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumdeid",
+      "en": "Boumdeid",
+      "slug": "boumdeid"
+    },
+    "code": {
+      "id": "MR01175",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR032",
+      "level": 2,
+      "name": {
+        "local": "Boumdeid",
+        "en": "Boumdeid",
+        "slug": "boumdeid-mr032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR032",
+        "level": 2,
+        "name": {
+          "local": "Boumdeid",
+          "en": "Boumdeid",
+          "slug": "boumdeid-mr032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.484",
+      "lon": "-11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01176",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hseiy Tin",
+      "en": "Hseiy Tin",
+      "slug": "hseiy-tin"
+    },
+    "code": {
+      "id": "MR01176",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR032",
+      "level": 2,
+      "name": {
+        "local": "Boumdeid",
+        "en": "Boumdeid",
+        "slug": "boumdeid-mr032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR032",
+        "level": 2,
+        "name": {
+          "local": "Boumdeid",
+          "en": "Boumdeid",
+          "slug": "boumdeid-mr032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.314",
+      "lon": "-11.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01177",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lavtah",
+      "en": "Lavtah",
+      "slug": "lavtah"
+    },
+    "code": {
+      "id": "MR01177",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR032",
+      "level": 2,
+      "name": {
+        "local": "Boumdeid",
+        "en": "Boumdeid",
+        "slug": "boumdeid-mr032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR03",
+        "level": 1,
+        "name": {
+          "local": "Assaba",
+          "en": "Assaba",
+          "slug": "assaba-mr03"
+        }
+      },
+      {
+        "id": "MR032",
+        "level": 2,
+        "name": {
+          "local": "Boumdeid",
+          "en": "Boumdeid",
+          "slug": "boumdeid-mr032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.853",
+      "lon": "-11.273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

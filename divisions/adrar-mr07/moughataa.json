@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MR071",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Aoujeft",
+      "en": "Aoujeft",
+      "slug": "aoujeft-mr071"
+    },
+    "code": {
+      "id": "MR071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.555",
+      "lon": "-13.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR072",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Atar",
+      "en": "Atar",
+      "slug": "atar-mr072"
+    },
+    "code": {
+      "id": "MR072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.625",
+      "lon": "-13.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR073",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Chinguitti",
+      "en": "Chinguitti",
+      "slug": "chinguitti-mr073"
+    },
+    "code": {
+      "id": "MR073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.157",
+      "lon": "-10.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR074",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Ouadane",
+      "en": "Ouadane",
+      "slug": "ouadane-mr074"
+    },
+    "code": {
+      "id": "MR074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR07",
+        "level": 1,
+        "name": {
+          "local": "Adrar",
+          "en": "Adrar",
+          "slug": "adrar-mr07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.36",
+      "lon": "-8.13"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

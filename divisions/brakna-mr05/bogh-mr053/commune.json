@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01231",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "BoghÃ©",
+      "en": "BoghÃ©",
+      "slug": "bogh"
+    },
+    "code": {
+      "id": "MR01231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR053",
+      "level": 2,
+      "name": {
+        "local": "Boghé",
+        "en": "Boghé",
+        "slug": "bogh-mr053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR053",
+        "level": 2,
+        "name": {
+          "local": "Boghé",
+          "en": "Boghé",
+          "slug": "bogh-mr053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.6",
+      "lon": "-14.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01232",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar El Aviye",
+      "en": "Dar El Aviye",
+      "slug": "dar-el-aviye"
+    },
+    "code": {
+      "id": "MR01232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR053",
+      "level": 2,
+      "name": {
+        "local": "Boghé",
+        "en": "Boghé",
+        "slug": "bogh-mr053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR053",
+        "level": 2,
+        "name": {
+          "local": "Boghé",
+          "en": "Boghé",
+          "slug": "bogh-mr053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.681",
+      "lon": "-14.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01233",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar El Barke",
+      "en": "Dar El Barke",
+      "slug": "dar-el-barke"
+    },
+    "code": {
+      "id": "MR01233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR053",
+      "level": 2,
+      "name": {
+        "local": "Boghé",
+        "en": "Boghé",
+        "slug": "bogh-mr053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR053",
+        "level": 2,
+        "name": {
+          "local": "Boghé",
+          "en": "Boghé",
+          "slug": "bogh-mr053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.695",
+      "lon": "-14.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01234",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ould Biram",
+      "en": "Ould Biram",
+      "slug": "ould-biram"
+    },
+    "code": {
+      "id": "MR01234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR053",
+      "level": 2,
+      "name": {
+        "local": "Boghé",
+        "en": "Boghé",
+        "slug": "bogh-mr053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR053",
+        "level": 2,
+        "name": {
+          "local": "Boghé",
+          "en": "Boghé",
+          "slug": "bogh-mr053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.696",
+      "lon": "-14.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

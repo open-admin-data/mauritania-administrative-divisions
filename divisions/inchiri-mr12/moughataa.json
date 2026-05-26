@@ -1,0 +1,96 @@
+[
+  {
+    "id": "MR121",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Akjoujt",
+      "en": "Akjoujt",
+      "slug": "akjoujt-mr121"
+    },
+    "code": {
+      "id": "MR121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR12",
+      "level": 1,
+      "name": {
+        "local": "Inchiri",
+        "en": "Inchiri",
+        "slug": "inchiri-mr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR12",
+        "level": 1,
+        "name": {
+          "local": "Inchiri",
+          "en": "Inchiri",
+          "slug": "inchiri-mr12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.906",
+      "lon": "-14.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR122",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Bennechab",
+      "en": "Bennechab",
+      "slug": "bennechab-mr122"
+    },
+    "code": {
+      "id": "MR122",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR12",
+      "level": 1,
+      "name": {
+        "local": "Inchiri",
+        "en": "Inchiri",
+        "slug": "inchiri-mr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR12",
+        "level": 1,
+        "name": {
+          "local": "Inchiri",
+          "en": "Inchiri",
+          "slug": "inchiri-mr12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.55",
+      "lon": "-15.153"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MR032",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Boumdeid",
+    "en": "Boumdeid",
+    "slug": "boumdeid-mr032"
+  },
+  "code": {
+    "id": "MR032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR03",
+    "level": 1,
+    "name": {
+      "local": "Assaba",
+      "en": "Assaba",
+      "slug": "assaba-mr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR03",
+      "level": 1,
+      "name": {
+        "local": "Assaba",
+        "en": "Assaba",
+        "slug": "assaba-mr03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.744",
+    "lon": "-11.279"
+  },
+  "metadata": {},
+  "source": {}
+}

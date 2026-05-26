@@ -1,0 +1,36 @@
+# Nouakchott Ouest — Mauritania Administrative Divisions
+
+> 3 moughataas, 3 communes
+> Code: MR13
+> Coordinates: 18.305, -15.974
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Ksar
+
+Code: MR131, Coordinates: 18.33, -15.931
+Communes: 1
+
+#### Ksar
+
+Code: MR01330, Coordinates: 18.33, -15.931
+
+### Sebkha
+
+Code: MR133, Coordinates: 18.077, -16.008
+Communes: 1
+
+#### Sebkha
+
+Code: MR01332, Coordinates: 18.077, -16.008
+
+### Tevragh Zeina
+
+Code: MR132, Coordinates: 18.3, -16.016
+Communes: 1
+
+#### Tefragh Zeina
+
+Code: MR01331, Coordinates: 18.3, -16.016
+

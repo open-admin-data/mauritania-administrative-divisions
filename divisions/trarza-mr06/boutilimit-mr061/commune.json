@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MR01250",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ajoueir",
+      "en": "Ajoueir",
+      "slug": "ajoueir"
+    },
+    "code": {
+      "id": "MR01250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.206",
+      "lon": "-14.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01248",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boutilimit",
+      "en": "Boutilimit",
+      "slug": "boutilimit"
+    },
+    "code": {
+      "id": "MR01248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.54",
+      "lon": "-14.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01254",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mouyessar",
+      "en": "El Mouyessar",
+      "slug": "el-mouyessar"
+    },
+    "code": {
+      "id": "MR01254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.499",
+      "lon": "-13.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01249",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Elb Adress",
+      "en": "Elb Adress",
+      "slug": "elb-adress"
+    },
+    "code": {
+      "id": "MR01249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.279",
+      "lon": "-13.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01251",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Teichet",
+      "en": "N'Teichet",
+      "slug": "nteichet"
+    },
+    "code": {
+      "id": "MR01251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.334",
+      "lon": "-14.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01252",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nebaghiye",
+      "en": "Nebaghiye",
+      "slug": "nebaghiye"
+    },
+    "code": {
+      "id": "MR01252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.406",
+      "lon": "-15.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01253",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tenghadej",
+      "en": "Tenghadej",
+      "slug": "tenghadej"
+    },
+    "code": {
+      "id": "MR01253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR061",
+      "level": 2,
+      "name": {
+        "local": "Boutilimit",
+        "en": "Boutilimit",
+        "slug": "boutilimit-mr061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR061",
+        "level": 2,
+        "name": {
+          "local": "Boutilimit",
+          "en": "Boutilimit",
+          "slug": "boutilimit-mr061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.548",
+      "lon": "-14.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

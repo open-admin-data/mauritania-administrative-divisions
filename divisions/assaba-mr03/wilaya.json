@@ -1,0 +1,30 @@
+{
+  "id": "MR03",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Assaba",
+    "en": "Assaba",
+    "slug": "assaba-mr03"
+  },
+  "code": {
+    "id": "MR03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 5,
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.713",
+    "lon": "-11.856"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01246",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourat",
+      "en": "Bourat",
+      "slug": "bourat"
+    },
+    "code": {
+      "id": "MR01246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR056",
+      "level": 2,
+      "name": {
+        "local": "Maal",
+        "en": "Maal",
+        "slug": "maal-mr056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR056",
+        "level": 2,
+        "name": {
+          "local": "Maal",
+          "en": "Maal",
+          "slug": "maal-mr056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.652",
+      "lon": "-13.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01247",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djelwar",
+      "en": "Djelwar",
+      "slug": "djelwar"
+    },
+    "code": {
+      "id": "MR01247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR056",
+      "level": 2,
+      "name": {
+        "local": "Maal",
+        "en": "Maal",
+        "slug": "maal-mr056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR056",
+        "level": 2,
+        "name": {
+          "local": "Maal",
+          "en": "Maal",
+          "slug": "maal-mr056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.597",
+      "lon": "-13.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01245",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Elwad Lebiadh",
+      "en": "Elwad Lebiadh",
+      "slug": "elwad-lebiadh"
+    },
+    "code": {
+      "id": "MR01245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR056",
+      "level": 2,
+      "name": {
+        "local": "Maal",
+        "en": "Maal",
+        "slug": "maal-mr056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR056",
+        "level": 2,
+        "name": {
+          "local": "Maal",
+          "en": "Maal",
+          "slug": "maal-mr056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.87",
+      "lon": "-12.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01243",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maal",
+      "en": "Maal",
+      "slug": "maal"
+    },
+    "code": {
+      "id": "MR01243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR056",
+      "level": 2,
+      "name": {
+        "local": "Maal",
+        "en": "Maal",
+        "slug": "maal-mr056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR056",
+        "level": 2,
+        "name": {
+          "local": "Maal",
+          "en": "Maal",
+          "slug": "maal-mr056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "-13.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01244",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Roumed",
+      "en": "Roumed",
+      "slug": "roumed"
+    },
+    "code": {
+      "id": "MR01244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR056",
+      "level": 2,
+      "name": {
+        "local": "Maal",
+        "en": "Maal",
+        "slug": "maal-mr056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR056",
+        "level": 2,
+        "name": {
+          "local": "Maal",
+          "en": "Maal",
+          "slug": "maal-mr056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.968",
+      "lon": "-13.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

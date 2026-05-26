@@ -1,0 +1,30 @@
+{
+  "id": "MR07",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "Adrar",
+    "en": "Adrar",
+    "slug": "adrar-mr07"
+  },
+  "code": {
+    "id": "MR07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "moughataa": 4,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.434",
+    "lon": "-9.561"
+  },
+  "metadata": {},
+  "source": {}
+}

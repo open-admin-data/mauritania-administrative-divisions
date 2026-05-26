@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MR01316",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bayediam",
+      "en": "Bayediam",
+      "slug": "bayediam"
+    },
+    "code": {
+      "id": "MR01316",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.046",
+      "lon": "-11.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01314",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chleikha",
+      "en": "Chleikha",
+      "slug": "chleikha"
+    },
+    "code": {
+      "id": "MR01314",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.872",
+      "lon": "-11.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01315",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diogountou",
+      "en": "Diogountou",
+      "slug": "diogountou"
+    },
+    "code": {
+      "id": "MR01315",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.958",
+      "lon": "-12.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01313",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghabou",
+      "en": "Ghabou",
+      "slug": "ghabou"
+    },
+    "code": {
+      "id": "MR01313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.805",
+      "lon": "-12.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01317",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouraye",
+      "en": "Gouraye",
+      "slug": "gouraye"
+    },
+    "code": {
+      "id": "MR01317",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.002",
+      "lon": "-12.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01318",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soufi",
+      "en": "Soufi",
+      "slug": "soufi"
+    },
+    "code": {
+      "id": "MR01318",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR103",
+      "level": 2,
+      "name": {
+        "local": "Ghabou",
+        "en": "Ghabou",
+        "slug": "ghabou-mr103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR103",
+        "level": 2,
+        "name": {
+          "local": "Ghabou",
+          "en": "Ghabou",
+          "slug": "ghabou-mr103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.232",
+      "lon": "-11.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

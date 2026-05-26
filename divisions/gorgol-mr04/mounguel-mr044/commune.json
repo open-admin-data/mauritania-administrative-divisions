@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01219",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azgueilem Tiyab",
+      "en": "Azgueilem Tiyab",
+      "slug": "azgueilem-tiyab"
+    },
+    "code": {
+      "id": "MR01219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR044",
+      "level": 2,
+      "name": {
+        "local": "Mounguel",
+        "en": "Mounguel",
+        "slug": "mounguel-mr044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR044",
+        "level": 2,
+        "name": {
+          "local": "Mounguel",
+          "en": "Mounguel",
+          "slug": "mounguel-mr044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.342",
+      "lon": "-13.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01216",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bathet MoÃ¯t",
+      "en": "Bathet MoÃ¯t",
+      "slug": "bathet-mot"
+    },
+    "code": {
+      "id": "MR01216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR044",
+      "level": 2,
+      "name": {
+        "local": "Mounguel",
+        "en": "Mounguel",
+        "slug": "mounguel-mr044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR044",
+        "level": 2,
+        "name": {
+          "local": "Mounguel",
+          "en": "Mounguel",
+          "slug": "mounguel-mr044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.483",
+      "lon": "-13.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01217",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bokhol",
+      "en": "Bokhol",
+      "slug": "bokhol"
+    },
+    "code": {
+      "id": "MR01217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR044",
+      "level": 2,
+      "name": {
+        "local": "Mounguel",
+        "en": "Mounguel",
+        "slug": "mounguel-mr044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR044",
+        "level": 2,
+        "name": {
+          "local": "Mounguel",
+          "en": "Mounguel",
+          "slug": "mounguel-mr044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.49",
+      "lon": "-12.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01218",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Melzem Teichet",
+      "en": "Melzem Teichet",
+      "slug": "melzem-teichet"
+    },
+    "code": {
+      "id": "MR01218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR044",
+      "level": 2,
+      "name": {
+        "local": "Mounguel",
+        "en": "Mounguel",
+        "slug": "mounguel-mr044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR044",
+        "level": 2,
+        "name": {
+          "local": "Mounguel",
+          "en": "Mounguel",
+          "slug": "mounguel-mr044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.607",
+      "lon": "-12.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01215",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mounguel",
+      "en": "Mounguel",
+      "slug": "mounguel"
+    },
+    "code": {
+      "id": "MR01215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR044",
+      "level": 2,
+      "name": {
+        "local": "Mounguel",
+        "en": "Mounguel",
+        "slug": "mounguel-mr044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR044",
+        "level": 2,
+        "name": {
+          "local": "Mounguel",
+          "en": "Mounguel",
+          "slug": "mounguel-mr044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.383",
+      "lon": "-13.135"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

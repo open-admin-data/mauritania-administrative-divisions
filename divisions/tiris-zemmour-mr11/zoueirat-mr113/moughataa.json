@@ -1,0 +1,47 @@
+{
+  "id": "MR113",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Zoueirat",
+    "en": "Zoueirat",
+    "slug": "zoueirat-mr113"
+  },
+  "code": {
+    "id": "MR113",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR11",
+    "level": 1,
+    "name": {
+      "local": "Tiris Zemmour",
+      "en": "Tiris Zemmour",
+      "slug": "tiris-zemmour-mr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR11",
+      "level": 1,
+      "name": {
+        "local": "Tiris Zemmour",
+        "en": "Tiris Zemmour",
+        "slug": "tiris-zemmour-mr11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.726",
+    "lon": "-12.353"
+  },
+  "metadata": {},
+  "source": {}
+}

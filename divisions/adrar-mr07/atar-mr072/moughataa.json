@@ -1,0 +1,47 @@
+{
+  "id": "MR072",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Atar",
+    "en": "Atar",
+    "slug": "atar-mr072"
+  },
+  "code": {
+    "id": "MR072",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR07",
+    "level": 1,
+    "name": {
+      "local": "Adrar",
+      "en": "Adrar",
+      "slug": "adrar-mr07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.625",
+    "lon": "-13.433"
+  },
+  "metadata": {},
+  "source": {}
+}

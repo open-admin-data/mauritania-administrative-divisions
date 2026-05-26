@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01195",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djewol",
+      "en": "Djewol",
+      "slug": "djewol"
+    },
+    "code": {
+      "id": "MR01195",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR041",
+      "level": 2,
+      "name": {
+        "local": "Kaedi",
+        "en": "Kaedi",
+        "slug": "kaedi-mr041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR041",
+        "level": 2,
+        "name": {
+          "local": "Kaedi",
+          "en": "Kaedi",
+          "slug": "kaedi-mr041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.084",
+      "lon": "-13.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01193",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaedi",
+      "en": "Kaedi",
+      "slug": "kaedi"
+    },
+    "code": {
+      "id": "MR01193",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR041",
+      "level": 2,
+      "name": {
+        "local": "Kaedi",
+        "en": "Kaedi",
+        "slug": "kaedi-mr041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR041",
+        "level": 2,
+        "name": {
+          "local": "Kaedi",
+          "en": "Kaedi",
+          "slug": "kaedi-mr041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.179",
+      "lon": "-13.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01194",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "NÃ©rÃ© Walo",
+      "en": "NÃ©rÃ© Walo",
+      "slug": "nr-walo"
+    },
+    "code": {
+      "id": "MR01194",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR041",
+      "level": 2,
+      "name": {
+        "local": "Kaedi",
+        "en": "Kaedi",
+        "slug": "kaedi-mr041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR041",
+        "level": 2,
+        "name": {
+          "local": "Kaedi",
+          "en": "Kaedi",
+          "slug": "kaedi-mr041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.228",
+      "lon": "-13.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01197",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "TifondÃ© CivÃ©",
+      "en": "TifondÃ© CivÃ©",
+      "slug": "tifond-civ"
+    },
+    "code": {
+      "id": "MR01197",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR041",
+      "level": 2,
+      "name": {
+        "local": "Kaedi",
+        "en": "Kaedi",
+        "slug": "kaedi-mr041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR041",
+        "level": 2,
+        "name": {
+          "local": "Kaedi",
+          "en": "Kaedi",
+          "slug": "kaedi-mr041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.822",
+      "lon": "-12.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01196",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toghomadi",
+      "en": "Toghomadi",
+      "slug": "toghomadi"
+    },
+    "code": {
+      "id": "MR01196",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR041",
+      "level": 2,
+      "name": {
+        "local": "Kaedi",
+        "en": "Kaedi",
+        "slug": "kaedi-mr041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      },
+      {
+        "id": "MR041",
+        "level": 2,
+        "name": {
+          "local": "Kaedi",
+          "en": "Kaedi",
+          "slug": "kaedi-mr041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.856",
+      "lon": "-13.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

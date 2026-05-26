@@ -1,0 +1,47 @@
+{
+  "id": "MR013",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Djiguenni",
+    "en": "Djiguenni",
+    "slug": "djiguenni-mr013"
+  },
+  "code": {
+    "id": "MR013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR01",
+    "level": 1,
+    "name": {
+      "local": "Hodh Chargui",
+      "en": "Hodh Chargui",
+      "slug": "hodh-chargui-mr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.019",
+    "lon": "-8.785"
+  },
+  "metadata": {},
+  "source": {}
+}

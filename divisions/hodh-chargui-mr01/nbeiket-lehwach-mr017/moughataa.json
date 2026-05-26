@@ -1,0 +1,47 @@
+{
+  "id": "MR017",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "N'Beiket Lehwach",
+    "en": "N'Beiket Lehwach",
+    "slug": "nbeiket-lehwach-mr017"
+  },
+  "code": {
+    "id": "MR017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR01",
+    "level": 1,
+    "name": {
+      "local": "Hodh Chargui",
+      "en": "Hodh Chargui",
+      "slug": "hodh-chargui-mr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR01",
+      "level": 1,
+      "name": {
+        "local": "Hodh Chargui",
+        "en": "Hodh Chargui",
+        "slug": "hodh-chargui-mr01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.549",
+    "lon": "-6.107"
+  },
+  "metadata": {},
+  "source": {}
+}

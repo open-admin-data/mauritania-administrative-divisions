@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01259",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beir Taouress",
+      "en": "Beir Taouress",
+      "slug": "beir-taouress"
+    },
+    "code": {
+      "id": "MR01259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR063",
+      "level": 2,
+      "name": {
+        "local": "Mederdra",
+        "en": "Mederdra",
+        "slug": "mederdra-mr063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR063",
+        "level": 2,
+        "name": {
+          "local": "Mederdra",
+          "en": "Mederdra",
+          "slug": "mederdra-mr063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.092",
+      "lon": "-15.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01261",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Khat",
+      "en": "El Khat",
+      "slug": "el-khat"
+    },
+    "code": {
+      "id": "MR01261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR063",
+      "level": 2,
+      "name": {
+        "local": "Mederdra",
+        "en": "Mederdra",
+        "slug": "mederdra-mr063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR063",
+        "level": 2,
+        "name": {
+          "local": "Mederdra",
+          "en": "Mederdra",
+          "slug": "mederdra-mr063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.809",
+      "lon": "-15.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01258",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mederdra",
+      "en": "Mederdra",
+      "slug": "mederdra"
+    },
+    "code": {
+      "id": "MR01258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR063",
+      "level": 2,
+      "name": {
+        "local": "Mederdra",
+        "en": "Mederdra",
+        "slug": "mederdra-mr063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR063",
+        "level": 2,
+        "name": {
+          "local": "Mederdra",
+          "en": "Mederdra",
+          "slug": "mederdra-mr063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.936",
+      "lon": "-15.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01260",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taguilalet",
+      "en": "Taguilalet",
+      "slug": "taguilalet"
+    },
+    "code": {
+      "id": "MR01260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR063",
+      "level": 2,
+      "name": {
+        "local": "Mederdra",
+        "en": "Mederdra",
+        "slug": "mederdra-mr063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR063",
+        "level": 2,
+        "name": {
+          "local": "Mederdra",
+          "en": "Mederdra",
+          "slug": "mederdra-mr063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.23",
+      "lon": "-15.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01262",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiguent (El Jedide)",
+      "en": "Tiguent (El Jedide)",
+      "slug": "tiguent-el-jedide"
+    },
+    "code": {
+      "id": "MR01262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR063",
+      "level": 2,
+      "name": {
+        "local": "Mederdra",
+        "en": "Mederdra",
+        "slug": "mederdra-mr063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR063",
+        "level": 2,
+        "name": {
+          "local": "Mederdra",
+          "en": "Mederdra",
+          "slug": "mederdra-mr063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.268",
+      "lon": "-15.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

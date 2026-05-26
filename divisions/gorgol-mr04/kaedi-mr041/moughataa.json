@@ -1,0 +1,47 @@
+{
+  "id": "MR041",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Kaedi",
+    "en": "Kaedi",
+    "slug": "kaedi-mr041"
+  },
+  "code": {
+    "id": "MR041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR04",
+    "level": 1,
+    "name": {
+      "local": "Gorgol",
+      "en": "Gorgol",
+      "slug": "gorgol-mr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.958",
+    "lon": "-12.9"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,36 @@
+# Nouakchott Sud — Mauritania Administrative Divisions
+
+> 3 moughataas, 3 communes
+> Code: MR15
+> Coordinates: 17.943, -15.94
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Moughataas
+
+### Arafat
+
+Code: MR152, Coordinates: 18.054, -15.959
+Communes: 1
+
+#### Arafat
+
+Code: MR01337, Coordinates: 18.054, -15.959
+
+### El Mina
+
+Code: MR151, Coordinates: 17.946, -16.005
+Communes: 1
+
+#### El Mina
+
+Code: MR01336, Coordinates: 17.946, -16.005
+
+### Riad
+
+Code: MR153, Coordinates: 17.971, -15.908
+Communes: 1
+
+#### Riyad
+
+Code: MR01338, Coordinates: 17.971, -15.908
+

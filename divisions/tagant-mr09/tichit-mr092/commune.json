@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MR01296",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lekhcheb",
+      "en": "Lekhcheb",
+      "slug": "lekhcheb"
+    },
+    "code": {
+      "id": "MR01296",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR092",
+      "level": 2,
+      "name": {
+        "local": "Tichit",
+        "en": "Tichit",
+        "slug": "tichit-mr092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR092",
+        "level": 2,
+        "name": {
+          "local": "Tichit",
+          "en": "Tichit",
+          "slug": "tichit-mr092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.537",
+      "lon": "-10.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01295",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tichit",
+      "en": "Tichit",
+      "slug": "tichit"
+    },
+    "code": {
+      "id": "MR01295",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR092",
+      "level": 2,
+      "name": {
+        "local": "Tichit",
+        "en": "Tichit",
+        "slug": "tichit-mr092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR092",
+        "level": 2,
+        "name": {
+          "local": "Tichit",
+          "en": "Tichit",
+          "slug": "tichit-mr092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.498",
+      "lon": "-9.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

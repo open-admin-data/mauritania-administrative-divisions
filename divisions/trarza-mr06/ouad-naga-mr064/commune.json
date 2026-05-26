@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01264",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aouleiygat",
+      "en": "Aouleiygat",
+      "slug": "aouleiygat"
+    },
+    "code": {
+      "id": "MR01264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR064",
+      "level": 2,
+      "name": {
+        "local": "Ouad Naga",
+        "en": "Ouad Naga",
+        "slug": "ouad-naga-mr064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR064",
+        "level": 2,
+        "name": {
+          "local": "Ouad Naga",
+          "en": "Ouad Naga",
+          "slug": "ouad-naga-mr064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.203",
+      "lon": "-15.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01265",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ariye",
+      "en": "El Ariye",
+      "slug": "el-ariye"
+    },
+    "code": {
+      "id": "MR01265",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR064",
+      "level": 2,
+      "name": {
+        "local": "Ouad Naga",
+        "en": "Ouad Naga",
+        "slug": "ouad-naga-mr064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR064",
+        "level": 2,
+        "name": {
+          "local": "Ouad Naga",
+          "en": "Ouad Naga",
+          "slug": "ouad-naga-mr064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.664",
+      "lon": "-15.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01263",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouad Naga",
+      "en": "Ouad Naga",
+      "slug": "ouad-naga"
+    },
+    "code": {
+      "id": "MR01263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR064",
+      "level": 2,
+      "name": {
+        "local": "Ouad Naga",
+        "en": "Ouad Naga",
+        "slug": "ouad-naga-mr064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR064",
+        "level": 2,
+        "name": {
+          "local": "Ouad Naga",
+          "en": "Ouad Naga",
+          "slug": "ouad-naga-mr064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.947",
+      "lon": "-15.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

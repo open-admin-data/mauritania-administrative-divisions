@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MR041",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Kaedi",
+      "en": "Kaedi",
+      "slug": "kaedi-mr041"
+    },
+    "code": {
+      "id": "MR041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.958",
+      "lon": "-12.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR045",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Lexeibe 1",
+      "en": "Lexeibe 1",
+      "slug": "lexeibe-1-mr045"
+    },
+    "code": {
+      "id": "MR045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.174",
+      "lon": "-13.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR043",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "M'Bout",
+      "en": "M'Bout",
+      "slug": "mbout-mr043"
+    },
+    "code": {
+      "id": "MR043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.014",
+      "lon": "-12.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR042",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Maghama",
+      "en": "Maghama",
+      "slug": "maghama-mr042"
+    },
+    "code": {
+      "id": "MR042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.534",
+      "lon": "-12.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR044",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Mounguel",
+      "en": "Mounguel",
+      "slug": "mounguel-mr044"
+    },
+    "code": {
+      "id": "MR044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR04",
+        "level": 1,
+        "name": {
+          "local": "Gorgol",
+          "en": "Gorgol",
+          "slug": "gorgol-mr04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.487",
+      "lon": "-12.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

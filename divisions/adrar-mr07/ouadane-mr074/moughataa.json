@@ -1,0 +1,47 @@
+{
+  "id": "MR074",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Ouadane",
+    "en": "Ouadane",
+    "slug": "ouadane-mr074"
+  },
+  "code": {
+    "id": "MR074",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR07",
+    "level": 1,
+    "name": {
+      "local": "Adrar",
+      "en": "Adrar",
+      "slug": "adrar-mr07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.36",
+    "lon": "-8.13"
+  },
+  "metadata": {},
+  "source": {}
+}

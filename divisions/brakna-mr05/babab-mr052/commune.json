@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01230",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "AÃ©rÃ© M'Bar",
+      "en": "AÃ©rÃ© M'Bar",
+      "slug": "ar-mbar"
+    },
+    "code": {
+      "id": "MR01230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR052",
+      "level": 2,
+      "name": {
+        "local": "Bababé",
+        "en": "Bababé",
+        "slug": "babab-mr052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR052",
+        "level": 2,
+        "name": {
+          "local": "Bababé",
+          "en": "Bababé",
+          "slug": "babab-mr052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.476",
+      "lon": "-14.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01228",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "BababÃ©",
+      "en": "BababÃ©",
+      "slug": "babab"
+    },
+    "code": {
+      "id": "MR01228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR052",
+      "level": 2,
+      "name": {
+        "local": "Bababé",
+        "en": "Bababé",
+        "slug": "babab-mr052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR052",
+        "level": 2,
+        "name": {
+          "local": "Bababé",
+          "en": "Bababé",
+          "slug": "babab-mr052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.332",
+      "lon": "-13.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01229",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Verae",
+      "en": "El Verae",
+      "slug": "el-verae"
+    },
+    "code": {
+      "id": "MR01229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR052",
+      "level": 2,
+      "name": {
+        "local": "Bababé",
+        "en": "Bababé",
+        "slug": "babab-mr052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR05",
+        "level": 1,
+        "name": {
+          "local": "Brakna",
+          "en": "Brakna",
+          "slug": "brakna-mr05"
+        }
+      },
+      {
+        "id": "MR052",
+        "level": 2,
+        "name": {
+          "local": "Bababé",
+          "en": "Bababé",
+          "slug": "babab-mr052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.434",
+      "lon": "-13.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

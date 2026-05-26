@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MR01106",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basseknou",
+      "en": "Basseknou",
+      "slug": "basseknou"
+    },
+    "code": {
+      "id": "MR01106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR012",
+      "level": 2,
+      "name": {
+        "local": "Bassiknou",
+        "en": "Bassiknou",
+        "slug": "bassiknou-mr012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR012",
+        "level": 2,
+        "name": {
+          "local": "Bassiknou",
+          "en": "Bassiknou",
+          "slug": "bassiknou-mr012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.863",
+      "lon": "-5.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01109",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dhar",
+      "en": "Dhar",
+      "slug": "dhar"
+    },
+    "code": {
+      "id": "MR01109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR012",
+      "level": 2,
+      "name": {
+        "local": "Bassiknou",
+        "en": "Bassiknou",
+        "slug": "bassiknou-mr012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR012",
+        "level": 2,
+        "name": {
+          "local": "Bassiknou",
+          "en": "Bassiknou",
+          "slug": "bassiknou-mr012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.171",
+      "lon": "-6.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01107",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Megve",
+      "en": "El Megve",
+      "slug": "el-megve"
+    },
+    "code": {
+      "id": "MR01107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR012",
+      "level": 2,
+      "name": {
+        "local": "Bassiknou",
+        "en": "Bassiknou",
+        "slug": "bassiknou-mr012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR012",
+        "level": 2,
+        "name": {
+          "local": "Bassiknou",
+          "en": "Bassiknou",
+          "slug": "bassiknou-mr012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.162",
+      "lon": "-5.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01108",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vessale",
+      "en": "Vessale",
+      "slug": "vessale"
+    },
+    "code": {
+      "id": "MR01108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR012",
+      "level": 2,
+      "name": {
+        "local": "Bassiknou",
+        "en": "Bassiknou",
+        "slug": "bassiknou-mr012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR012",
+        "level": 2,
+        "name": {
+          "local": "Bassiknou",
+          "en": "Bassiknou",
+          "slug": "bassiknou-mr012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.669",
+      "lon": "-5.855"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "MR082",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Chami",
+      "en": "Chami",
+      "slug": "chami-mr082"
+    },
+    "code": {
+      "id": "MR082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR08",
+      "level": 1,
+      "name": {
+        "local": "Dakhlet Nouadhibou",
+        "en": "Dakhlet Nouadhibou",
+        "slug": "dakhlet-nouadhibou-mr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.168",
+      "lon": "-15.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR081",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Nouadhibou",
+      "en": "Nouadhibou",
+      "slug": "nouadhibou-mr081"
+    },
+    "code": {
+      "id": "MR081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR08",
+      "level": 1,
+      "name": {
+        "local": "Dakhlet Nouadhibou",
+        "en": "Dakhlet Nouadhibou",
+        "slug": "dakhlet-nouadhibou-mr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR08",
+        "level": 1,
+        "name": {
+          "local": "Dakhlet Nouadhibou",
+          "en": "Dakhlet Nouadhibou",
+          "slug": "dakhlet-nouadhibou-mr08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.924",
+      "lon": "-15.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

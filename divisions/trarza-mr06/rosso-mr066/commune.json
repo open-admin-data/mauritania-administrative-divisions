@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MR01270",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jedrel Mouhguen",
+      "en": "Jedrel Mouhguen",
+      "slug": "jedrel-mouhguen"
+    },
+    "code": {
+      "id": "MR01270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR066",
+      "level": 2,
+      "name": {
+        "local": "Rosso",
+        "en": "Rosso",
+        "slug": "rosso-mr066"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR066",
+        "level": 2,
+        "name": {
+          "local": "Rosso",
+          "en": "Rosso",
+          "slug": "rosso-mr066"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.676",
+      "lon": "-15.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01269",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rosso",
+      "en": "Rosso",
+      "slug": "rosso"
+    },
+    "code": {
+      "id": "MR01269",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR066",
+      "level": 2,
+      "name": {
+        "local": "Rosso",
+        "en": "Rosso",
+        "slug": "rosso-mr066"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      },
+      {
+        "id": "MR066",
+        "level": 2,
+        "name": {
+          "local": "Rosso",
+          "en": "Rosso",
+          "slug": "rosso-mr066"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.582",
+      "lon": "-15.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

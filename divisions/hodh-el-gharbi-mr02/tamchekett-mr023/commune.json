@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01153",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mabrouk 3",
+      "en": "El Mabrouk 3",
+      "slug": "el-mabrouk-3"
+    },
+    "code": {
+      "id": "MR01153",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR023",
+      "level": 2,
+      "name": {
+        "local": "Tamchekett",
+        "en": "Tamchekett",
+        "slug": "tamchekett-mr023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR023",
+        "level": 2,
+        "name": {
+          "local": "Tamchekett",
+          "en": "Tamchekett",
+          "slug": "tamchekett-mr023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.406",
+      "lon": "-10.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01155",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guetae-Teidoume",
+      "en": "Guetae-Teidoume",
+      "slug": "guetae-teidoume"
+    },
+    "code": {
+      "id": "MR01155",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR023",
+      "level": 2,
+      "name": {
+        "local": "Tamchekett",
+        "en": "Tamchekett",
+        "slug": "tamchekett-mr023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR023",
+        "level": 2,
+        "name": {
+          "local": "Tamchekett",
+          "en": "Tamchekett",
+          "slug": "tamchekett-mr023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.732",
+      "lon": "-10.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01154",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Radhi",
+      "en": "Radhi",
+      "slug": "radhi"
+    },
+    "code": {
+      "id": "MR01154",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR023",
+      "level": 2,
+      "name": {
+        "local": "Tamchekett",
+        "en": "Tamchekett",
+        "slug": "tamchekett-mr023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR023",
+        "level": 2,
+        "name": {
+          "local": "Tamchekett",
+          "en": "Tamchekett",
+          "slug": "tamchekett-mr023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.722",
+      "lon": "-10.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01156",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sava",
+      "en": "Sava",
+      "slug": "sava"
+    },
+    "code": {
+      "id": "MR01156",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR023",
+      "level": 2,
+      "name": {
+        "local": "Tamchekett",
+        "en": "Tamchekett",
+        "slug": "tamchekett-mr023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR023",
+        "level": 2,
+        "name": {
+          "local": "Tamchekett",
+          "en": "Tamchekett",
+          "slug": "tamchekett-mr023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.045",
+      "lon": "-10.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01152",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamchekett",
+      "en": "Tamchekett",
+      "slug": "tamchekett"
+    },
+    "code": {
+      "id": "MR01152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR023",
+      "level": 2,
+      "name": {
+        "local": "Tamchekett",
+        "en": "Tamchekett",
+        "slug": "tamchekett-mr023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR02",
+        "level": 1,
+        "name": {
+          "local": "Hodh El Gharbi",
+          "en": "Hodh El Gharbi",
+          "slug": "hodh-el-gharbi-mr02"
+        }
+      },
+      {
+        "id": "MR023",
+        "level": 2,
+        "name": {
+          "local": "Tamchekett",
+          "en": "Tamchekett",
+          "slug": "tamchekett-mr023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.23",
+      "lon": "-10.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

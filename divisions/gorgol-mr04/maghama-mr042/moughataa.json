@@ -1,0 +1,47 @@
+{
+  "id": "MR042",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Maghama",
+    "en": "Maghama",
+    "slug": "maghama-mr042"
+  },
+  "code": {
+    "id": "MR042",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR04",
+    "level": 1,
+    "name": {
+      "local": "Gorgol",
+      "en": "Gorgol",
+      "slug": "gorgol-mr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR04",
+      "level": 1,
+      "name": {
+        "local": "Gorgol",
+        "en": "Gorgol",
+        "slug": "gorgol-mr04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.534",
+    "lon": "-12.854"
+  },
+  "metadata": {},
+  "source": {}
+}

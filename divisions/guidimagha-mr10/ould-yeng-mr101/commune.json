@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MR01306",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouanz",
+      "en": "Bouanz",
+      "slug": "bouanz"
+    },
+    "code": {
+      "id": "MR01306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.828",
+      "lon": "-12.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01305",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Davoue",
+      "en": "Davoue",
+      "slug": "davoue"
+    },
+    "code": {
+      "id": "MR01305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.588",
+      "lon": "-12.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01308",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leaweinat",
+      "en": "Leaweinat",
+      "slug": "leaweinat"
+    },
+    "code": {
+      "id": "MR01308",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.692",
+      "lon": "-11.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01303",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leebelli",
+      "en": "Leebelli",
+      "slug": "leebelli"
+    },
+    "code": {
+      "id": "MR01303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.354",
+      "lon": "-11.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01307",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lehraj",
+      "en": "Lehraj",
+      "slug": "lehraj"
+    },
+    "code": {
+      "id": "MR01307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.88",
+      "lon": "-11.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01302",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ould YengÃ©",
+      "en": "Ould YengÃ©",
+      "slug": "ould-yeng"
+    },
+    "code": {
+      "id": "MR01302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.543",
+      "lon": "-11.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01304",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tektake",
+      "en": "Tektake",
+      "slug": "tektake"
+    },
+    "code": {
+      "id": "MR01304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR101",
+      "level": 2,
+      "name": {
+        "local": "Ould Yengé",
+        "en": "Ould Yengé",
+        "slug": "ould-yeng-mr101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR10",
+        "level": 1,
+        "name": {
+          "local": "Guidimagha",
+          "en": "Guidimagha",
+          "slug": "guidimagha-mr10"
+        }
+      },
+      {
+        "id": "MR101",
+        "level": 2,
+        "name": {
+          "local": "Ould Yengé",
+          "en": "Ould Yengé",
+          "slug": "ould-yeng-mr101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.619",
+      "lon": "-11.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

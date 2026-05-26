@@ -1,0 +1,82 @@
+# Mauritania Administrative Divisions
+
+> Open dataset of Mauritania's administrative hierarchy:
+> 15 wilayas, 63 moughataas, 238 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total wilayas: 15
+- Total moughataas: 63
+- Total communes: 238
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All wilayas (JSON)](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/all-wilaya.json)
+- [All moughataas (JSON)](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/all-moughataa.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/data/schema.json)
+
+## Browse by Wilaya
+
+- [Adrar](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/adrar-mr07/) — 4 moughataas, 11 communes
+- [Assaba](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/assaba-mr03/) — 5 moughataas, 26 communes
+- [Brakna](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/brakna-mr05/) — 6 moughataas, 24 communes
+- [Dakhlet Nouadhibou](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/dakhlet-nouadhibou-mr08/) — 2 moughataas, 6 communes
+- [Gorgol](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/gorgol-mr04/) — 5 moughataas, 31 communes
+- [Guidimagha](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/guidimagha-mr10/) — 4 moughataas, 22 communes
+- [Hodh Chargui](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/hodh-chargui-mr01/) — 8 moughataas, 37 communes
+- [Hodh El Gharbi](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/hodh-el-gharbi-mr02/) — 5 moughataas, 29 communes
+- [Inchiri](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/inchiri-mr12/) — 2 moughataas, 3 communes
+- [Nouakchott Nord](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/nouakchott-nord-mr14/) — 3 moughataas, 3 communes
+- [Nouakchott Ouest](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/nouakchott-ouest-mr13/) — 3 moughataas, 3 communes
+- [Nouakchott Sud](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/nouakchott-sud-mr15/) — 3 moughataas, 3 communes
+- [Tagant](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/tagant-mr09/) — 3 moughataas, 10 communes
+- [Tiris Zemmour](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/tiris-zemmour-mr11/) — 3 moughataas, 3 communes
+- [Trarza](https://github.com/open-admin-data/mauritania-administrative-divisions/tree/main/divisions/trarza-mr06/) — 7 moughataas, 27 communes
+
+## Per-Wilaya Full Data
+
+- [Adrar](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/adrar-mr07.txt)
+- [Assaba](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/assaba-mr03.txt)
+- [Brakna](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/brakna-mr05.txt)
+- [Dakhlet Nouadhibou](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/dakhlet-nouadhibou-mr08.txt)
+- [Gorgol](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/gorgol-mr04.txt)
+- [Guidimagha](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/guidimagha-mr10.txt)
+- [Hodh Chargui](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/hodh-chargui-mr01.txt)
+- [Hodh El Gharbi](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/hodh-el-gharbi-mr02.txt)
+- [Inchiri](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/inchiri-mr12.txt)
+- [Nouakchott Nord](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/nouakchott-nord-mr14.txt)
+- [Nouakchott Ouest](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/nouakchott-ouest-mr13.txt)
+- [Nouakchott Sud](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/nouakchott-sud-mr15.txt)
+- [Tagant](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/tagant-mr09.txt)
+- [Tiris Zemmour](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/tiris-zemmour-mr11.txt)
+- [Trarza](https://raw.githubusercontent.com/open-admin-data/mauritania-administrative-divisions/main/docs/llms-full/trarza-mr06.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (wilaya), 2 (moughataa), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Mauritania Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/mauritania-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

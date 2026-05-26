@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MR01132",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bousteile",
+      "en": "Bousteile",
+      "slug": "bousteile"
+    },
+    "code": {
+      "id": "MR01132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR016",
+      "level": 2,
+      "name": {
+        "local": "Timbédra",
+        "en": "Timbédra",
+        "slug": "timbdra-mr016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR016",
+        "level": 2,
+        "name": {
+          "local": "Timbédra",
+          "en": "Timbédra",
+          "slug": "timbdra-mr016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.619",
+      "lon": "-8.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01133",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi M'Hadi",
+      "en": "Hassi M'Hadi",
+      "slug": "hassi-mhadi"
+    },
+    "code": {
+      "id": "MR01133",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR016",
+      "level": 2,
+      "name": {
+        "local": "Timbédra",
+        "en": "Timbédra",
+        "slug": "timbdra-mr016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR016",
+        "level": 2,
+        "name": {
+          "local": "Timbédra",
+          "en": "Timbédra",
+          "slug": "timbdra-mr016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.991",
+      "lon": "-8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01131",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koumbi Saleh",
+      "en": "Koumbi Saleh",
+      "slug": "koumbi-saleh"
+    },
+    "code": {
+      "id": "MR01131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR016",
+      "level": 2,
+      "name": {
+        "local": "Timbédra",
+        "en": "Timbédra",
+        "slug": "timbdra-mr016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR016",
+        "level": 2,
+        "name": {
+          "local": "Timbédra",
+          "en": "Timbédra",
+          "slug": "timbdra-mr016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.895",
+      "lon": "-7.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01129",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tembedgha",
+      "en": "Tembedgha",
+      "slug": "tembedgha"
+    },
+    "code": {
+      "id": "MR01129",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR016",
+      "level": 2,
+      "name": {
+        "local": "Timbédra",
+        "en": "Timbédra",
+        "slug": "timbdra-mr016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR016",
+        "level": 2,
+        "name": {
+          "local": "Timbédra",
+          "en": "Timbédra",
+          "slug": "timbdra-mr016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.24",
+      "lon": "-8.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01130",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touil 1",
+      "en": "Touil 1",
+      "slug": "touil-1"
+    },
+    "code": {
+      "id": "MR01130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR016",
+      "level": 2,
+      "name": {
+        "local": "Timbédra",
+        "en": "Timbédra",
+        "slug": "timbdra-mr016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR01",
+        "level": 1,
+        "name": {
+          "local": "Hodh Chargui",
+          "en": "Hodh Chargui",
+          "slug": "hodh-chargui-mr01"
+        }
+      },
+      {
+        "id": "MR016",
+        "level": 2,
+        "name": {
+          "local": "Timbédra",
+          "en": "Timbédra",
+          "slug": "timbdra-mr016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.579",
+      "lon": "-8.293"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

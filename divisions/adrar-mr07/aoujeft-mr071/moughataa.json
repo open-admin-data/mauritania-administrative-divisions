@@ -1,0 +1,47 @@
+{
+  "id": "MR071",
+  "level": 2,
+  "level_name": {
+    "local": "مقاطعة",
+    "en": "Moughataa"
+  },
+  "name": {
+    "local": "Aoujeft",
+    "en": "Aoujeft",
+    "slug": "aoujeft-mr071"
+  },
+  "code": {
+    "id": "MR071",
+    "iso": null
+  },
+  "parent": {
+    "id": "MR07",
+    "level": 1,
+    "name": {
+      "local": "Adrar",
+      "en": "Adrar",
+      "slug": "adrar-mr07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MR07",
+      "level": 1,
+      "name": {
+        "local": "Adrar",
+        "en": "Adrar",
+        "slug": "adrar-mr07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.555",
+    "lon": "-13.216"
+  },
+  "metadata": {},
+  "source": {}
+}

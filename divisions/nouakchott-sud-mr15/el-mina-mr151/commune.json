@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MR01336",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mina",
+      "en": "El Mina",
+      "slug": "el-mina"
+    },
+    "code": {
+      "id": "MR01336",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR151",
+      "level": 2,
+      "name": {
+        "local": "El Mina",
+        "en": "El Mina",
+        "slug": "el-mina-mr151"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR15",
+        "level": 1,
+        "name": {
+          "local": "Nouakchott Sud",
+          "en": "Nouakchott Sud",
+          "slug": "nouakchott-sud-mr15"
+        }
+      },
+      {
+        "id": "MR151",
+        "level": 2,
+        "name": {
+          "local": "El Mina",
+          "en": "El Mina",
+          "slug": "el-mina-mr151"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.946",
+      "lon": "-16.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

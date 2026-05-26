@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MR061",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Boutilimit",
+      "en": "Boutilimit",
+      "slug": "boutilimit-mr061"
+    },
+    "code": {
+      "id": "MR061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.909",
+      "lon": "-14.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR062",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Keur Macen",
+      "en": "Keur Macen",
+      "slug": "keur-macen-mr062"
+    },
+    "code": {
+      "id": "MR062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.528",
+      "lon": "-16.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR063",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Mederdra",
+      "en": "Mederdra",
+      "slug": "mederdra-mr063"
+    },
+    "code": {
+      "id": "MR063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.12",
+      "lon": "-15.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR064",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Ouad Naga",
+      "en": "Ouad Naga",
+      "slug": "ouad-naga-mr064"
+    },
+    "code": {
+      "id": "MR064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.117",
+      "lon": "-15.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR065",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "R'Kiz",
+      "en": "R'Kiz",
+      "slug": "rkiz-mr065"
+    },
+    "code": {
+      "id": "MR065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.107",
+      "lon": "-14.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR066",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Rosso",
+      "en": "Rosso",
+      "slug": "rosso-mr066"
+    },
+    "code": {
+      "id": "MR066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.654",
+      "lon": "-15.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR067",
+    "level": 2,
+    "level_name": {
+      "local": "مقاطعة",
+      "en": "Moughataa"
+    },
+    "name": {
+      "local": "Tekane",
+      "en": "Tekane",
+      "slug": "tekane-mr067"
+    },
+    "code": {
+      "id": "MR067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR06",
+      "level": 1,
+      "name": {
+        "local": "Trarza",
+        "en": "Trarza",
+        "slug": "trarza-mr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR06",
+        "level": 1,
+        "name": {
+          "local": "Trarza",
+          "en": "Trarza",
+          "slug": "trarza-mr06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.742",
+      "lon": "-15.17"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

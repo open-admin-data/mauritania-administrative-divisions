@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MR01292",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moudjeria",
+      "en": "Moudjeria",
+      "slug": "moudjeria"
+    },
+    "code": {
+      "id": "MR01292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR091",
+      "level": 2,
+      "name": {
+        "local": "Moudjeria",
+        "en": "Moudjeria",
+        "slug": "moudjeria-mr091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR091",
+        "level": 2,
+        "name": {
+          "local": "Moudjeria",
+          "en": "Moudjeria",
+          "slug": "moudjeria-mr091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.915",
+      "lon": "-12.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01293",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Beike",
+      "en": "N'Beike",
+      "slug": "nbeike"
+    },
+    "code": {
+      "id": "MR01293",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR091",
+      "level": 2,
+      "name": {
+        "local": "Moudjeria",
+        "en": "Moudjeria",
+        "slug": "moudjeria-mr091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR091",
+        "level": 2,
+        "name": {
+          "local": "Moudjeria",
+          "en": "Moudjeria",
+          "slug": "moudjeria-mr091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.166",
+      "lon": "-12.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MR01294",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soudoud",
+      "en": "Soudoud",
+      "slug": "soudoud"
+    },
+    "code": {
+      "id": "MR01294",
+      "iso": null
+    },
+    "parent": {
+      "id": "MR091",
+      "level": 2,
+      "name": {
+        "local": "Moudjeria",
+        "en": "Moudjeria",
+        "slug": "moudjeria-mr091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MR09",
+        "level": 1,
+        "name": {
+          "local": "Tagant",
+          "en": "Tagant",
+          "slug": "tagant-mr09"
+        }
+      },
+      {
+        "id": "MR091",
+        "level": 2,
+        "name": {
+          "local": "Moudjeria",
+          "en": "Moudjeria",
+          "slug": "moudjeria-mr091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.538",
+      "lon": "-12.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
